@@ -13,7 +13,7 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 
 ![로그인 이미지](images/step-05-image-01.png)
 
-`Sign in to GitHub.com`을 선택합니다
+`Sign in to GitHub.com`을 선택합니다.
 
 ![로그인 이미지](images/step-05-image-02.png)
 
@@ -23,7 +23,7 @@ GitHub 계정으로 로그인을 진행합니다.
 
 `Use my GitHub account name and email address`를 선택합니다.
 
-`Name`과 `Email`이 올바른지 확인후 `Finish`버튼을 클릭합니다.
+`Name`과 `Email`이 올바른지 확인 후 `Finish` 버튼을 클릭합니다.
 
 ![로그인 이미지](images/step-05-image-04.png)
 
@@ -39,11 +39,11 @@ GitHub 계정으로 로그인을 진행합니다.
 
 ![클론 이미지](images/step-05-image-06.png)
 
-`GitHub.com`선택 후 [STEP 04: GitHub 저장소 생성](./step04-create-repository.md)에서 생성한 레포지토리를 찾아 선택합니다.
+`GitHub.com` 선택 후 [STEP 04: GitHub 저장소 생성](./step04-create-repository.md)에서 생성한 저장소를 찾아 선택합니다.
 
-`Local Path`에서 `Choose..`버튼을 클릭하여 파일을 저장할 로컬 경로를 선택합니다. (예: 바탕화면)
+`Local Path`에서 `Choose...` 버튼을 클릭하여 파일을 저장할 로컬 경로를 선택합니다. (예: 바탕화면)
 
-모두 선택한 후 `Clone`버튼을 클릭하여 저장소를 다운로드합니다.
+모두 선택한 후 `Clone` 버튼을 클릭하여 저장소를 다운로드합니다.
 
 ## 클론 완료
 
