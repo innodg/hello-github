@@ -16,6 +16,7 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 `Sign in to GitHub.com`을 선택합니다
 
 ![로그인 이미지](images/step-05-image-02.png)
+
 GitHub 계정으로 로그인을 진행합니다.
 
 ![로그인 이미지](images/step-05-image-03.png)
