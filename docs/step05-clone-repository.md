@@ -1,9 +1,12 @@
 # STEP 05: GitHub Desktop으로 저장소 클론하기
 
-## 클론(Clone)이란?
+## 🎯 이 단계에서 배우는 것
+GitHub에 만든 저장소를 내 컴퓨터로 가져오는 방법입니다. 이 과정을 통해 원격 저장소와 로컬 작업 공간을 연결하는 첫 단계를 익힙니다.
+
+## 📚 클론(Clone)이 뭔가요?
 클론(Clone)은 GitHub의 저장소를 로컬 컴퓨터에 복사하는 작업입니다.
 
-## 클론 방법
+## 🔽 클론하기
 
 ### 1단계: GitHub Desktop 실행
 GitHub Desktop을 실행합니다.
@@ -17,17 +20,17 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 
 ![로그인 이미지](images/step-05-image-02.png)
 
-GitHub 계정으로 로그인을 진행합니다.
+1. GitHub 계정으로 로그인을 진행합니다.
 
 ![로그인 이미지](images/step-05-image-03.png)
 
-`Use my GitHub account name and email address`를 선택합니다.
+2. `Use my GitHub account name and email address`를 선택합니다.
 
-`Name`과 `Email`이 올바른지 확인 후 `Finish` 버튼을 클릭합니다.
+3. `Name`과 `Email`이 올바른지 확인 후 `Finish` 버튼을 클릭합니다.
 
 ![로그인 이미지](images/step-05-image-04.png)
 
-로그인이 정상적으로 되었습니다!
+4. 로그인이 정상적으로 되었습니다!
 
 ### 3단계: 저장소 클론
 
@@ -39,11 +42,11 @@ GitHub 계정으로 로그인을 진행합니다.
 
 ![클론 이미지](images/step-05-image-06.png)
 
-`GitHub.com` 선택 후 [STEP 04: GitHub 저장소 생성](./step04-create-repository.md)에서 생성한 저장소를 찾아 선택합니다.
+1. `GitHub.com` 선택 후 [STEP 04: GitHub 저장소 생성](./step04-create-repository.md)에서 생성한 저장소를 찾아 선택합니다.
 
-`Local Path`에서 `Choose...` 버튼을 클릭하여 파일을 저장할 로컬 경로를 선택합니다. (예: 바탕화면)
+2. `Local Path`에서 `Choose...` 버튼을 클릭하여 파일을 저장할 로컬 경로를 선택합니다. (예: 바탕화면)
 
-모두 선택한 후 `Clone` 버튼을 클릭하여 저장소를 다운로드합니다.
+3. 모두 선택한 후 `Clone` 버튼을 클릭하여 저장소를 다운로드합니다.
 
 ## 클론 완료
 
