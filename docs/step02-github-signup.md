@@ -62,9 +62,12 @@ GitHub는 마치 구글 드라이브처럼 우리의 파일을 인터넷에 저�
 GitHub가 우리의 이메일로 **확인 코드**를 보냅니다.
 1. 우리가 입력한 이메일의 **받은편지함**을 확인하세요.
 2. "🚀 Your GitHub launch code" 또는 비슷한 제목의 이메일을 찾으세요.
+
    ![받은편지함](/images/step02/8-received-email-list.png)
-3. 이메일**확인 코드**를 복사해서 GitHub 페이지에 붙여넣으세요.
+3. 이메일 **확인 코드**를 복사해서 GitHub 페이지에 붙여넣으세요.
+
    ![수신 이메일 코드 화면](/images/step02/9-email-verification.png)
+   
    ![코드 입력 화면](/images/step02/10-email-code-input.png)
 
 ## GitHub 로그인하기

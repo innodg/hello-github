@@ -23,7 +23,7 @@ GitHub 메인 화면에서 아래 과정들을 수행해 저장소 생성 페이
 2. 여러 항목들이 보인다면, 그 중에서 "Repositories"를 클릭합니다.
 
     ![Dropdown - Repositories 항목](/images/step04/1-repositories-dropdown.png)
-2. 화면 전환 이후 "New"라는 초록색 버튼을 클릭합니다.
+3. 화면 전환 이후 "New"라는 초록색 버튼을 클릭합니다.
 
     ![Repositories 페이지 - New 버튼](/images/step04/2-new-repository-button.png)
 
