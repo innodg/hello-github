@@ -7,9 +7,10 @@ GitHub Desktop이라는 프로그램을 설치합니다. 이 프로그램은 Git
 GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않아도 되도록** 만들어진 프로그램입니다.
 마치 엑셀을 사용할 때 버튼을 클릭하는 것처럼, GitHub Desktop도 버튼을 클릭하면 쉽게 작동합니다.
 
+> [!TIP]
 > GitHub Desktop = Git을 쉽게 사용할 수 있는 프로그램 🖥️
 
-> [!NOTE]
+> [!IMPORTANT]
 > 🍎 **MacOS 사용자**(맥북, 아이맥 등)는 [MacOS용 STEP 03 문서](/docs/macos/step03-github-desktop-installation.md)로 이동해주세요.
 
 ## 💾 GitHub Desktop 설치하기
