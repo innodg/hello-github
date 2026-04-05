@@ -18,13 +18,13 @@ GitHub는 마치 OneDrive 또는 Google Drive처럼 우리의 파일을 인터�
 
    ![GitHub 공식 웹사이트 주소 입력](/docs/images/step-02-image-01.png)
 
-2. GitHub의 메인 페이지가 보일 거예요.
+2. GitHub 기본 화면이 보일 거예요.
 
    ![GitHub 메인 페이지](/docs/images/step-02-image-02.png)
 
 ### 2단계: 가입 버튼 클릭하기
 
-페이지의 **오른쪽 위에** "Sign up"이라는 버튼을 찾아 클릭합니다.
+페이지의 **오른쪽 위에** `Sign up`이라는 버튼을 찾아 클릭합니다.
 
 ![GitHub 메인 페이지 우측 상단의 Sign up 버튼](/docs/images/step-02-image-03.png)
 
@@ -51,7 +51,7 @@ GitHub는 마치 OneDrive 또는 Google Drive처럼 우리의 파일을 인터�
 
 ### 6단계 : 지역 설정
 
-기본적으로는 변경할 필요가 없지만, 만약 "Your Country/Region" 부분이 "Korea, South"가 아니라면 "Korea, South"를 선택합니다.
+기본적으로는 변경할 필요가 없지만, 만약 `Your Country/Region` 부분이 `Korea, South`가 아니라면 `Korea, South`를 선택합니다.
 
 > ![GitHub 가입 페이지 - 국가 선택 부분](/docs/images/step-02-image-07.png)
 
@@ -71,7 +71,7 @@ GitHub는 마치 OneDrive 또는 Google Drive처럼 우리의 파일을 인터�
 GitHub가 우리의 이메일로 **확인 코드**를 보냅니다.
 
 1. 우리가 입력한 이메일의 **받은편지함**을 확인하세요.
-2. "🚀 Your GitHub launch code" 또는 비슷한 제목의 이메일을 찾으세요.
+2. `🚀 Your GitHub launch code` 또는 비슷한 제목의 이메일을 찾으세요.
 
    ![받은편지함](/docs/images/step-02-image-10.png)
 
@@ -92,7 +92,7 @@ GitHub 계정 생성을 완료하면, GitHub 홈페이지로 이동합니다. �
 
 ### 1단계 : 로그인 버튼 클릭하기
 
-페이지의 **오른쪽 위에** "Sign in"이라는 버튼을 찾아 클릭합니다.
+페이지의 **오른쪽 위에** `Sign in`이라는 버튼을 찾아 클릭합니다.
 
 ![GitHub 로그인 페이지 우측 상단의 Sign in 버튼](/docs/images/step-02-image-14.png)
 
@@ -104,7 +104,7 @@ GitHub 계정 생성을 완료하면, GitHub 홈페이지로 이동합니다. �
 
 ### 3단계 : 로그인 버튼 클릭하기
 
-"Sign in" 버튼을 클릭합니다.
+`Sign in` 버튼을 클릭합니다.
 
 ![GitHub 로그인 페이지 - Sign in 버튼](/docs/images/step-02-image-16.png)
 
