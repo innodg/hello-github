@@ -11,7 +11,7 @@ GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않
 > GitHub Desktop = Git을 쉽게 사용할 수 있는 프로그램 🖥️
 
 > [!IMPORTANT]
-> 🍎 **MacOS 사용자**(맥북, 아이맥 등)는 [MacOS용 STEP 03 문서](/docs/macos/step03-github-desktop-installation.md)로 이동해주세요.
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 03 문서](/docs/macos/step03-github-desktop-installation.md)로 이동해주세요.
 
 ## 💾 GitHub Desktop 설치하기
 
