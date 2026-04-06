@@ -47,31 +47,37 @@ macOS에서 Git을 설치하는 가장 쉬운 방법은 **Homebrew**라는 패�
 
    ![Homebrew 설치 명령어 입력](/docs/images/macos/step-01-image-05.png)
 
-2. 비밀번호를 입력하라는 메시지가 나타나면, **컴퓨터(노트북) 로그인 비밀번호**를 입력하세요.
-   > [!NOTE]
-   > 비밀번호를 입력할 때 화면에 아무것도 표시되지 않지만, 정상적으로 입력되고 있습니다.
+2. 비밀번호를 입력하라는 메시지가 나타나면, **컴퓨터(노트북) 로그인 비밀번호**를 입력하세요. 이후, 마지막 줄에 `Press RETURN/ENTER to continue or any other key to abort:`와 같은 메시지가 나온 채로 정지해있다면 엔터 키를 눌러주세요.
 
-   > [!NOTE]
-   > 마지막 줄에 `Press RETURN/ENTER to continue or any other key to abort:`와 같은 메시지가 나온 채로 정지해있다면 엔터 키를 눌러주세요.
+   > [!TIP]
+   > 비밀번호를 입력할 때 화면에 아무것도 표시되지 않지만, 정상적으로 입력되고 있습니다.
 
    ![Homebrew 설치 - 비밀번호 입력](/docs/images/macos/step-01-image-06.png)
 
 3. 설치가 완료될 때까지 기다리세요. (몇 분 정도 걸릴 수 있습니다)
 
-   > [!NOTE]
+   > [!TIP]
    > 아래 사진과 같이 텍스트를 입력할 수 있는 상태로 돌아오면 설치가 완료된 것입니다.
+
+   > [!CAUTION]
+   > 만약 `Next Steps`와 같은 추가 안내 문구가 나타난다면, 안내에 따라 추가로 텍스트를 입력해야합니다. 당황하지 말고 안내에 따라 텍스트를 복사해 붙여넣은 후, Enter 키를 눌러주세요.
+   > 
+   > 아래와 같은 텍스트를 복사해 붙여넣으라고 안내하는 경우가 많습니다(다를 수 있으니, 안내를 잘 읽어주세요).
+   > ```bash
+   > echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/사용자이름/.zprofile
+   > ```
 
    ![Homebrew 설치 완료](/docs/images/macos/step-01-image-07.png)
 
 ### 2단계: Git 설치하기
 
-1. 터미널에 `brew install git`를 입력한 후, **Enter 키**를 누르세요.
+1. 터미널에 `brew install git`를 입력한 후, Enter 키를 누르세요.
 
    ![Git 설치 명령어 입력](/docs/images/macos/step-01-image-08.png)
 
 2. 설치가 완료될 때까지 기다리세요. (몇 분 정도 걸릴 수 있습니다)
 
-   > [!NOTE]
+   > [!TIP]
    > 아래 사진과 같이 글자를 입력할 수 있는 상태로 돌아오면 설치가 완료된 것입니다.
 
    ![Git 설치 완료](/docs/images/macos/step-01-image-09.png)
@@ -80,7 +86,7 @@ macOS에서 Git을 설치하는 가장 쉬운 방법은 **Homebrew**라는 패�
 
 설치가 잘 되었는지 확인해보겠습니다.
 
-1. 터미널에 `git --version`을 입력하고 **Enter 키**를 누르세요.
+1. 터미널에 `git --version`을 입력하고 Enter 키를 누르세요.
 
    ![Git 버전 확인 명령어 입력](/docs/images/macos/step-01-image-10.png)
 
