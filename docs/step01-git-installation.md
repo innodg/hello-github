@@ -11,7 +11,7 @@ Git은 우리가 만드는 파일들의 변화를 기록해주는 도구입니�
 > Git = 파일의 변화를 자동으로 기록해주는 일기장 📝
 
 > [!IMPORTANT]
-> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 01 문서](./macos/step01-git-installation.md)로 이동해주세요.
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 01 문서](/docs/macos/step01-git-installation.md)로 이동해주세요.
 
 ## 💾 Git 설치하기
 
@@ -81,4 +81,4 @@ Git이 성공적으로 설치되었습니다!
 
 ---
 
-👉 다음: [STEP 02: GitHub 가입](./step02-github-signup.md)
+👉 다음: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)

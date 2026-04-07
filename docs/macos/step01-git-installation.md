@@ -62,7 +62,7 @@ macOS에서 Git을 설치하는 가장 쉬운 방법은 **Homebrew**라는 패�
    > [!CAUTION]
    > 만약 `Next Steps`와 같은 추가 안내 문구가 나타난다면, 안내에 따라 추가로 텍스트를 입력해야합니다. 당황하지 말고 안내에 따라 텍스트를 복사해 붙여넣은 후, Enter 키를 눌러주세요.
    > 
-   > 아래와 같은 텍스트를 복사해 붙여넣으라고 안내하는 경우가 많습니다(다를 수 있으니, 안내를 잘 읽어주세요).
+   > 아래와 같은 텍스트를 복사해 붙여넣으라고 안내하는 경우가 많습니다(그러나 추가 안내 내용이 다를 수 있으니, 안내를 잘 읽어주세요).
    > ```bash
    > echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/사용자이름/.zprofile
    > ```
@@ -99,4 +99,4 @@ Git이 성공적으로 설치되었습니다!
 
 ---
 
-👉 다음: [STEP 02: GitHub 가입](../step02-github-signup.md)
+👉 다음: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
