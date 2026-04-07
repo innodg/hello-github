@@ -1,82 +1,142 @@
 # STEP 04: GitHub 저장소 생성
 
-## 🎯 이 단계에서 배우는 것
-GitHub에 우리의 첫 번째 저장소(Repository)를 만드는 방법입니다. 저장소는 우리 파일들을 보관하는 폴더 같은 공간입니다.
+## 🎯 이 단계에서...
+GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 이를 GitHub에 publish(업로드)합니다.
 
-## 📚 저장소가 뭔가요?
+## 📚 Repository(저장소)가 뭔가요?
 저장소는 마치 폴더처럼 우리의 파일들을 모아두는 공간입니다.
 다만 일반 폴더와 다르게, **우리가 파일을 어떻게 수정했는지 기록**될 수 있습니다.
 
-> 🥕저장소 = 우리 파일들을 저장하는 폴더 + 변화 기록 📁
+> [!TIP]
+> 저장소 = 우리 파일들을 저장하는 폴더 + 내용 변화 기록 📁
 
-## 🔨 GitHub 저장소 만들기
+## 🔨 내 컴퓨터(노트북)에서 저장소 만들고 GitHub에 업로드하기
 
-### 1단계: GitHub 로그인하기
+### 1단계: GitHub Desktop 실행
 
-만약 GitHub에 로그인한 상태가 아니라면, [STEP 02의 GitHub 로그인 방법](./step02-github-signup.md#github-로그인하기)을 참고해서 먼저 로그인하세요.
+만약 GitHub Desktop을 실행하고 있지 않다면, GitHub Desktop을 실행합니다.
 
-### 2단계: 저장소 만드는 페이지로 이동하기
+![GitHub Desktop 실행 화면](images/step-04-image-01.png)
 
-GitHub 메인 화면에서 아래 과정들을 수행해 저장소 생성 페이지로 이동합니다.
+### 2단계: 새 저장소 만들기
 
-1. 페이지의 오른쪽 위에 위치한 동그라미(프로필) 아이콘을 클릭합니다.
-2. 여러 항목들이 보인다면, 그 중에서 "Repositories"를 클릭합니다.
+1. 왼쪽 상단의 `File` 메뉴를 클릭합니다.
+   
+   ![File 메뉴 클릭](/docs/images/step-04-image-02.png)
 
-    ![Dropdown - Repositories 항목](/images/step04/1-repositories-dropdown.png)
-3. 화면 전환 이후 "New"라는 초록색 버튼을 클릭합니다.
+2. `New Repository...`를 선택합니다.
 
-    ![Repositories 페이지 - New 버튼](/images/step04/2-new-repository-button.png)
+   ![File 메뉴에서 New Repository 선택](images/step-04-image-03.png)
 
 ### 3단계: 저장소 정보 입력하기
 
-"Create a new repository" 페이지가 열립니다. 여기서 우리의 저장소 정보를 입력합니다.
+새 저장소 생성 창이 열립니다. 여기서 우리의 저장소 정보를 입력합니다.
 
-![저장소 생성 페이지](/images/step04/3-create-repository-page.png)
+![새 저장소 생성 창](images/step-04-image-04.png)
 
-#### 저장소 이름 (Repository name)
+#### Name(저장소 이름)
 
-"Repository name" 글씨 아래 칸에 `my-first-project`를 입력합니다.
-> 🥕 다른 저장소 이름을 사용해도 되지만, 이번 시간에는 `my-first-project`로 저장소 이름을 설정합니다.
+"Name" 칸에 `my-first-project`를 입력합니다.
 
-![저장소 생성 페이지 - Repository name 입력창](/images/step04/4-repository-name-input.png)
+> [!NOTE]
+> 다른 저장소 이름을 사용해도 되지만, 이번 시간에는 `my-first-project`로 저장소 이름을 설정합니다.
 
+![저장소 이름 입력](images/step-04-image-05.png)
 
-#### 설명 (Description)
+#### Description(설명)
 
-1. "Description"이라는 칸이 있습니다. (이것은 필수가 아닙니다.)
-2. 우리 저장소가 어떤 것인지 간단히 설명하세요.
+"Description" 칸은 선택사항입니다. 우리 저장소가 어떤 목적의 저장소인지 간단히 설명하면 됩니다.
 
-> 🥕 **설명 예시:**
+> [!TIP]
+> **예시**
 > - GitHub를 배우는 첫 번째 프로젝트입니다.
 > - 나의 코딩 연습용 저장소입니다.
 
-![저장소 생성 페이지 - Description 입력창](/images/step04/5-description-input.png)
+![저장소 설명 입력 예시](/docs/images/step-04-image-06.png)
 
-#### README 파일 추가
+#### Local Path(로컬 경로)
 
-"Add README"라는 부분이 있습니다. 처음에는 Off 상태인데, 오른쪽 박스를 클릭해 On으로 바꿔주세요.
+"Local Path"에서 `Choose...` 버튼을 클릭하여 저장소를 만들 위치를 선택합니다.
 
-> 🥕 **README가 뭔가요?**
+![로컬 경로 선택 버튼](images/step-04-image-07.png)
+
+> [!NOTE]
+> 아래 사진처럼 "바탕화면" 폴더를 선택해주세요(다른 폴더를 선택해도 되지만, 이번 시간에는 "바탕화면"에 저장소를 만들도록 하겠습니다).
 > 
-> README는 우리 저장소에 대해 설명하는 파일입니다. 마치 책의 앞표지처럼, 다른 사람들이 우리 프로젝트를 이해할 수 있도록 도와줍니다.
+> ![로컬 경로 선택 예시](/docs/images/step-04-image-08.png)
 
-![저장소 생성 페이지 - Initialize with README toggle](/images/step04/6-initialize-with-readme-toggle.png)
+#### README(리드미) 초기화
+
+"Initialize this repository with a README" 박스를 클릭합니다.
+
+![README 초기화 체크박스](images/step-04-image-09.png)
+
+> [!TIP]
+> **리드미란?**
+> 리드미는 우리 저장소에 대해 설명하는 파일입니다. 마치 책의 앞표지처럼, 다른 사람들이 우리 저장소를 이해할 수 있도록 도와줍니다(물론 우리가 리드미에 내용을 작성해야 합니다).
 
 ### 4단계: 저장소 만들기
 
-1. 모든 정보를 입력했으면, 가장 아래에 있는 **"Create repository"** 버튼을 찾아 클릭하세요.
+모든 정보를 입력했으면, **"Create Repository"** 버튼을 클릭합니다.
 
-    ![저장소 생성 페이지 - Create repository 버튼](/images/step04/7-create-repository-button.png)
-2. 잠깐 기다리면 우리가 만든 저장소 페이지로 이동합니다.
+![Create Repository 버튼](images/step-04-image-10.png)
 
-    ![저장소 생성 후 이동하는 페이지](/images/step04/8-after-creating-repository.png)
+그럼 이제 화면이 바뀌며 우리가 만든 `my-first-project` 저장소가 보입니다.
+
+![새로 만든 저장소 화면](images/step-04-image-11.png)
+
+### 5단계: GitHub에 저장소 업로드하기
+
+이제 우리 컴퓨터(노트북)에 만든 저장소를 GitHub에 업로드해봅시다!
+
+1. GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
+
+   ![Publish repository 버튼](images/step-04-image-12.png)
+
+2. 새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
+
+   ![Publish repository 설정 창](images/step-04-image-13.png)
+
+   잠깐 기다리면 저장소가 GitHub에 업로드됩니다!
+
+### 6단계: GitHub에서 확인하기
+
+1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
+
+   ![Repository 메뉴 클릭](images/step-04-image-14.png)
+
+2. `View on GitHub`를 클릭합니다.
+
+   ![Repository 메뉴에서 View on GitHub 선택](images/step-04-image-15.png)
+
+2. 웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
+
+   ![GitHub에 업로드된 저장소 확인](images/step-04-image-16.png)
 
 ## ✅ 완료!
-축하합니다! 🎉 GitHub 저장소를 성공적으로 만들었습니다!
+축하합니다! 🎉 GitHub Desktop으로 내 컴퓨터(노트북)에 저장소를 만들고 GitHub에 업로드했습니다!
 
-이제 우리는 **Git**을 설치하고, **GitHub Desktop**을 설치하고, **GitHub 계정**을 만들고, **저장소**도 만들었습니다!
+### 마지막 단계: 만들었던 폴더 제거하기
 
-다음 단계에서는 이 저장소를 우리 컴퓨터로 가져와서 실제로 파일을 관리해볼 거예요.
+다음 단계에서 GitHub에 업로드한 저장소를 내 컴퓨터(노트북)로 복제해오는 연습을 하기 위해, 방금 만든 폴더를 제거해봅시다.
+
+1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
+
+   ![Repository 메뉴 클릭](images/step-04-image-14.png)
+
+2. `Remove...`를 클릭합니다.
+
+   ![Repository 메뉴에서 Remove 선택](images/step-04-image-17.png)
+
+3. 아래 사전처럼 "Also move this repository to Recycle Bin" 박스를 클릭해 체크함으로써 내 컴퓨터(노트북)에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
+
+   ![Remove 확인 창](images/step-04-image-18.png)
+
+   > [!NOTE]
+   > **왜 삭제하나요?**
+   > 걱정하지 마세요! 방금 우리는 저장소를 GitHub에 업로드했으니까요! 다음 내용에서 GitHub에 있는 저장소를 우리 컴퓨터(노트북)로 복제해오는 연습을 할 거예요.
+
+이제 우리는 **Git**을 설치하고, **GitHub Desktop**을 설치하고, **GitHub 계정**을 만들고, **저장소**도 만들어서 **GitHub에 업로드**했습니다!
 
 ---
 
