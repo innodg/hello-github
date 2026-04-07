@@ -16,7 +16,7 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 만약 GitHub Desktop을 실행하고 있지 않다면, GitHub Desktop을 실행합니다.
 
-![GitHub Desktop 실행 화면](images/step-04-image-01.png)
+![GitHub Desktop 실행 화면](/docs/images/step-04-image-01.png)
 
 ### 2단계: 새 저장소 만들기
 
@@ -26,13 +26,13 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 2. `New Repository...`를 선택합니다.
 
-   ![File 메뉴에서 New Repository 선택](images/step-04-image-03.png)
+   ![File 메뉴에서 New Repository 선택](/docs/images/step-04-image-03.png)
 
 ### 3단계: 저장소 정보 입력하기
 
 새 저장소 생성 창이 열립니다. 여기서 우리의 저장소 정보를 입력합니다.
 
-![새 저장소 생성 창](images/step-04-image-04.png)
+![새 저장소 생성 창](/docs/images/step-04-image-04.png)
 
 #### Name(저장소 이름)
 
@@ -41,7 +41,7 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 > [!NOTE]
 > 다른 저장소 이름을 사용해도 되지만, 이번 시간에는 `my-first-project`로 저장소 이름을 설정합니다.
 
-![저장소 이름 입력](images/step-04-image-05.png)
+![저장소 이름 입력](/docs/images/step-04-image-05.png)
 
 #### Description(설명)
 
@@ -58,7 +58,7 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 "Local Path"에서 `Choose...` 버튼을 클릭하여 저장소를 만들 위치를 선택합니다.
 
-![로컬 경로 선택 버튼](images/step-04-image-07.png)
+![로컬 경로 선택 버튼](/docs/images/step-04-image-07.png)
 
 > [!NOTE]
 > 아래 사진처럼 "바탕화면" 폴더를 선택해주세요(다른 폴더를 선택해도 되지만, 이번 시간에는 "바탕화면"에 저장소를 만들도록 하겠습니다).
@@ -69,7 +69,7 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 "Initialize this repository with a README" 박스를 클릭합니다.
 
-![README 초기화 체크박스](images/step-04-image-09.png)
+![README 초기화 체크박스](/docs/images/step-04-image-09.png)
 
 > [!TIP]
 > **리드미란?**
@@ -79,11 +79,11 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 모든 정보를 입력했으면, **"Create Repository"** 버튼을 클릭합니다.
 
-![Create Repository 버튼](images/step-04-image-10.png)
+![Create Repository 버튼](/docs/images/step-04-image-10.png)
 
 그럼 이제 화면이 바뀌며 우리가 만든 `my-first-project` 저장소가 보입니다.
 
-![새로 만든 저장소 화면](images/step-04-image-11.png)
+![새로 만든 저장소 화면](/docs/images/step-04-image-11.png)
 
 ### 5단계: GitHub에 저장소 업로드하기
 
@@ -91,11 +91,11 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 1. GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 버튼](images/step-04-image-12.png)
+   ![Publish repository 버튼](/docs/images/step-04-image-12.png)
 
 2. 새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 설정 창](images/step-04-image-13.png)
+   ![Publish repository 설정 창](/docs/images/step-04-image-13.png)
 
    잠깐 기다리면 저장소가 GitHub에 업로드됩니다!
 
@@ -103,15 +103,15 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](images/step-04-image-14.png)
+   ![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
 
 2. `View on GitHub`를 클릭합니다.
 
-   ![Repository 메뉴에서 View on GitHub 선택](images/step-04-image-15.png)
+   ![Repository 메뉴에서 View on GitHub 선택](/docs/images/step-04-image-15.png)
 
 2. 웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
 
-   ![GitHub에 업로드된 저장소 확인](images/step-04-image-16.png)
+   ![GitHub에 업로드된 저장소 확인](/docs/images/step-04-image-16.png)
 
 ## ✅ 완료!
 축하합니다! 🎉 GitHub Desktop으로 내 컴퓨터(노트북)에 저장소를 만들고 GitHub에 업로드했습니다!
@@ -122,15 +122,15 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](images/step-04-image-14.png)
+   ![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
 
 2. `Remove...`를 클릭합니다.
 
-   ![Repository 메뉴에서 Remove 선택](images/step-04-image-17.png)
+   ![Repository 메뉴에서 Remove 선택](/docs/images/step-04-image-17.png)
 
 3. 아래 사전처럼 "Also move this repository to Recycle Bin" 박스를 클릭해 체크함으로써 내 컴퓨터(노트북)에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
 
-   ![Remove 확인 창](images/step-04-image-18.png)
+   ![Remove 확인 창](/docs/images/step-04-image-18.png)
 
    > [!NOTE]
    > **왜 삭제하나요?**
@@ -140,6 +140,6 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 ---
 
-👈 이전: [STEP 03: GitHub Desktop 설치 안내](./step03-github-desktop-installation.md)
+👈 이전: [STEP 03: GitHub Desktop 설치 안내](/docs/step03-github-desktop-installation.md)
 
-👉 다음: [STEP 05: GitHub Desktop으로 저장소 클론](./step05-clone-repository.md)
+👉 다음: [STEP 05: GitHub Desktop으로 저장소 클론](/docs/step05-clone-repository.md)
