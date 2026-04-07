@@ -28,5 +28,5 @@ GitHub와 Git에 대해 더 깊이 배우고 싶다면 아래 공식 문서를 �
 
 | 주제 | 설명 |
 |------|------|
-| [**Git 시작**](https://docs.github.com/ko/get-started/learning-to-code/getting-started-with-git) | 예제와 함께 Git의 기본 사항 학습해보기 |
-| [**Git 정보**](https://docs.github.com/ko/get-started/using-git/about-git) | Git, GitHub 작동 방식 이해 |
+| [Git 시작](https://docs.github.com/ko/get-started/learning-to-code/getting-started-with-git) | 예제와 함께 Git의 기본 사항 학습해보기 |
+| [Git 정보](https://docs.github.com/ko/get-started/using-git/about-git) | Git, GitHub 작동 방식 이해 |
