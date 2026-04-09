@@ -1,4 +1,4 @@
-# STEP 09: Issue 생성
+# STEP 09: 이슈 생성하기
 
 ## 🎯 이 단계에서 배우는 것
 해야 할 일이나 수정할 내용을 GitHub에 정리해서 남기는 방법입니다. Issue를 만들면 작업을 더 체계적으로 관리하고, 끝난 일은 닫아서 구분할 수 있습니다.
@@ -61,7 +61,7 @@ GitHub에서 본인의 저장소에 접속합니다.
 
 ---
 
-👈 이전: [STEP 08: Push해서 GitHub으로 올리기](./step08-push-to-github.md)
+👈 이전: [STEP 08: Pull해서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
 
 ## 축하합니다! 🎉
 모든 단계를 완료했습니다. 이제 GitHub를 사용할 준비가 되었습니다!
