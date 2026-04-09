@@ -85,4 +85,4 @@ GitHub Desktop의 우측 상단에 있는 `Push origin` 버튼을 클릭합니�
 ---
 
 👈 이전: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](./step06-modify-files-locally.md)
-👉 다음: [STEP 08: PULL해서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
+👉 다음: [STEP 08: Pull해서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
