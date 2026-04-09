@@ -47,5 +47,5 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 
 ---
 
-👈 이전: [STEP 04: GitHub 저장소 생성](./step04-create-repository.md)
-👉 다음: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성](./step06-modify-files-locally.md)
+👈 이전: [STEP 04: GitHub 저장소 생성하기](./step04-create-repository.md)
+👉 다음: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](./step06-modify-files-locally.md)
