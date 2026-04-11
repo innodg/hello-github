@@ -22,16 +22,16 @@ GitHub Desktop(깃허브 데스크탑)을 사용하여 내 맥(맥북, 아이맥
 
 ### 2단계: 새 저장소 만들기
 
-1. 맥 화면 **맨 위 메뉴 막대**에서 `File` 메뉴를 클릭합니다.
+맥 화면 **맨 위 메뉴 막대**에서 `File` 메뉴를 클릭합니다.
 
-   > [!TIP]
-   > 윈도우와 달리, 맥에서는 메뉴가 깃허브 창 안이 아니라 **화면 맨 위**에 나타납니다.
+> [!TIP]
+> 윈도우와 달리, 맥에서는 메뉴가 깃허브 창 안이 아니라 **화면 맨 위**에 나타납니다.
 
-   ![File 메뉴 클릭](/docs/images/macos/step-04-image-01.png)
+![File 메뉴 클릭](/docs/images/macos/step-04-image-01.png)
 
-2. `New Repository...`를 선택합니다.
+`New Repository...`를 선택합니다.
 
-   ![File 메뉴에서 New Repository 선택](/docs/images/macos/step-04-image-02.png)
+![File 메뉴에서 New Repository 선택](/docs/images/macos/step-04-image-02.png)
 
 ### 3단계: 저장소 정보 입력하기
 
@@ -94,30 +94,30 @@ GitHub Desktop(깃허브 데스크탑)을 사용하여 내 맥(맥북, 아이맥
 
 이제 우리 맥에 만든 저장소를 GitHub에 업로드해봅시다!
 
-1. GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
+GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 버튼](/docs/images/macos/step-04-image-11.png)
+![Publish repository 버튼](/docs/images/macos/step-04-image-11.png)
 
-2. 새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
+새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 설정 창](/docs/images/macos/step-04-image-12.png)
+![Publish repository 설정 창](/docs/images/macos/step-04-image-12.png)
 
-   > [!TIP]
-   > GitHub에 저장소를 업로드할 때, 잠시 기다려야 합니다.
+> [!TIP]
+> GitHub에 저장소를 업로드할 때, 잠시 기다려야 합니다.
 
 ### 6단계: GitHub에서 확인하기
 
-1. 화면 맨 위 메뉴 막대에서 `Repository`를 클릭합니다.
+화면 맨 위 메뉴 막대에서 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](/docs/images/macos/step-04-image-13.png)
+![Repository 메뉴 클릭](/docs/images/macos/step-04-image-13.png)
 
-2. `View on GitHub`를 클릭합니다.
+`View on GitHub`를 클릭합니다.
 
-   ![Repository 메뉴에서 View on GitHub 선택](/docs/images/macos/step-04-image-14.png)
+![Repository 메뉴에서 View on GitHub 선택](/docs/images/macos/step-04-image-14.png)
 
-3. 웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
+웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
 
-   ![GitHub에 업로드된 저장소 확인](/docs/images/macos/step-04-image-15.png)
+![GitHub에 업로드된 저장소 확인](/docs/images/macos/step-04-image-15.png)
 
 ## ✅ 완료!
 축하합니다! 🎉 깃허브 데스크탑으로 내 맥에 저장소를 만들고 깃허브에 업로드했습니다!
@@ -126,21 +126,21 @@ GitHub Desktop(깃허브 데스크탑)을 사용하여 내 맥(맥북, 아이맥
 
 다음 단계에서 GitHub에 업로드한 저장소를 내 맥으로 복제해오는 연습을 하기 위해, 방금 만든 폴더를 제거해봅시다.
 
-1. 화면 맨 위 메뉴 막대에서 `Repository`를 클릭합니다.
+화면 맨 위 메뉴 막대에서 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](/docs/images/macos/step-04-image-13.png)
+![Repository 메뉴 클릭](/docs/images/macos/step-04-image-13.png)
 
-2. `Remove...`를 클릭합니다.
+`Remove...`를 클릭합니다.
 
-   ![Repository 메뉴에서 Remove 선택](/docs/images/macos/step-04-image-16.png)
+![Repository 메뉴에서 Remove 선택](/docs/images/macos/step-04-image-16.png)
 
-3. 아래 사진처럼 **"Also move this repository to Trash"**(휴지통으로 이동) 박스를 클릭해 체크함으로써 내 맥에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
+아래 사진처럼 **"Also move this repository to Trash"**(휴지통으로 이동) 박스를 클릭해 체크함으로써 내 맥에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
 
-   ![Remove 확인 창](/docs/images/macos/step-04-image-17.png)
+![Remove 확인 창](/docs/images/macos/step-04-image-17.png)
 
-   > [!NOTE]
-   > **왜 삭제하나요?**
-   > 방금 우리는 저장소를 깃허브에 업로드했으니 걱정하지 않아도 됩니다. 다음 단계에서 우리는 GitHub에 있는 저장소를 내 컴퓨터로 복제해오는 연습을 할 예정입니다.
+> [!NOTE]
+> **왜 삭제하나요?**
+> 방금 우리는 저장소를 깃허브에 업로드했으니 걱정하지 않아도 됩니다. 다음 단계에서 우리는 GitHub에 있는 저장소를 내 컴퓨터로 복제해오는 연습을 할 예정입니다.
 
 이제 우리는 **GitHub Desktop**을 설치하고, **GitHub 계정**을 만들고, **저장소**도 만들어서 **GitHub에 업로드**했습니다!
 

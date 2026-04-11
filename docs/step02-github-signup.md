@@ -14,13 +14,13 @@ GitHub는 마치 OneDrive 또는 Google Drive처럼 우리의 파일을 인터�
 
 ### 1단계: GitHub 웹사이트 방문하기
 
-1. 인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://github.com`를 입력하세요.
+인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://github.com`를 입력하세요.
 
-   ![GitHub 공식 웹사이트 주소 입력](/docs/images/step-02-image-01.png)
+![GitHub 공식 웹사이트 주소 입력](/docs/images/step-02-image-01.png)
 
-2. GitHub 기본 화면이 보일 거예요.
+GitHub 기본 화면이 보일 거예요.
 
-   ![GitHub 메인 페이지](/docs/images/step-02-image-02.png)
+![GitHub 메인 페이지](/docs/images/step-02-image-02.png)
 
 ### 2단계: 가입 버튼 클릭하기
 
@@ -70,16 +70,16 @@ GitHub는 마치 OneDrive 또는 Google Drive처럼 우리의 파일을 인터�
 
 GitHub가 우리의 이메일로 **확인 코드**를 보냅니다.
 
-1. 우리가 입력한 이메일의 **받은편지함**을 확인하세요.
-2. `🚀 Your GitHub launch code` 또는 비슷한 제목의 이메일을 찾으세요.
+우리가 입력한 이메일의 **받은편지함**을 확인하세요.
+`🚀 Your GitHub launch code` 또는 비슷한 제목의 이메일을 찾으세요.
 
-   ![받은편지함](/docs/images/step-02-image-10.png)
+![받은편지함](/docs/images/step-02-image-10.png)
 
-3. 이메일 **확인 코드**를 복사해서 GitHub 페이지에 붙여넣으세요.
+이메일 **확인 코드**를 복사해서 GitHub 페이지에 붙여넣으세요.
 
-   ![수신 이메일 코드 화면](/docs/images/step-02-image-11.png)
-   
-   ![코드 입력 화면](/docs/images/step-02-image-12.png)
+![수신 이메일 코드 화면](/docs/images/step-02-image-11.png)
+
+![코드 입력 화면](/docs/images/step-02-image-12.png)
 
 > [!TIP]
 > 만약 이메일을 받지 못했다면, 스팸 메일함(스팸함)을 확인해보세요. 때로는 GitHub의 이메일이 스팸으로 분류될 수 있습니다.

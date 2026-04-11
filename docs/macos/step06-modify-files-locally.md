@@ -7,21 +7,21 @@
 
 ### 1단계: 파일 열기
 
-1. GitHub(깃허브)로부터 복제해온 저장소(폴더)를 Finder(파인더)에서 찾습니다.
+GitHub(깃허브)로부터 복제해온 저장소(폴더)를 Finder(파인더)에서 찾습니다.
 
-    ![Finder 열기](/docs/images/macos/step-06-image-01.png)
+![Finder 열기](/docs/images/macos/step-06-image-01.png)
 
-2. Finder 창이 열리면, 오른쪽 위 돋보기 버튼을 클릭합니다.
+Finder 창이 열리면, 오른쪽 위 돋보기 버튼을 클릭합니다.
 
-    ![돋보기 버튼](/docs/images/macos/step-06-image-02.png)
+![돋보기 버튼](/docs/images/macos/step-06-image-02.png)
 
-3. 검색창에 "my-first-project"를 입력하고 `my-first-project` 폴더를 찾아 더블클릭합니다.
+검색창에 "my-first-project"를 입력하고 `my-first-project` 폴더를 찾아 더블클릭합니다.
 
-    ![폴더 이미지](/docs/images/macos/step-06-image-03.png)
+![폴더 이미지](/docs/images/macos/step-06-image-03.png)
 
-4. 폴더 안에 있는 README.md 파일을 우클릭(또는 트랙패드 두 손가락 클릭) 후, `다음으로 열기`에 마우스를 올린 후 `텍스트 편집기`를 클릭합니다.
+폴더 안에 있는 README.md 파일을 우클릭(또는 트랙패드 두 손가락 클릭) 후, `다음으로 열기`에 마우스를 올린 후 `텍스트 편집기`를 클릭합니다.
 
-    ![다음으로 열기 메뉴](/docs/images/macos/step-06-image-04.png)
+![다음으로 열기 메뉴](/docs/images/macos/step-06-image-04.png)
 
 ### 2단계: 파일 편집
 
@@ -48,20 +48,20 @@
 
 `command + S`를 눌러 수정한 내용을 저장하면, 깃허브 데스크탑이 변경한 파일을 자동으로 감지해 내가 어떤 파일을 수정했는지 보여줍니다. 아래 단계를 따라 변경 사항을 확인해봅니다 :
 
-1. `command + 스페이스바`를 눌러 검색창을 열고, "GitHub Desktop"을 입력한 후 엔터를 눌러 깃허브 데스크탑을 실행합니다.
+`command + 스페이스바`를 눌러 검색창을 열고, "GitHub Desktop"을 입력한 후 엔터를 눌러 깃허브 데스크탑을 실행합니다.
 
-    ![GitHub Desktop 검색](/docs/images/macos/step-06-image-07.png)
+![GitHub Desktop 검색](/docs/images/macos/step-06-image-07.png)
 
-2. 깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 `my-first-project`로 나타나는 지 확인합니다.
+깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 `my-first-project`로 나타나는 지 확인합니다.
 
-    > [!NOTE]
-    > 만약 `my-first-project`가 아니라면, `Current Repository`를 클릭한 후 `my-first-project`를 선택하세요.
+> [!NOTE]
+> 만약 `my-first-project`가 아니라면, `Current Repository`를 클릭한 후 `my-first-project`를 선택하세요.
 
-    ![저장소 선택](/docs/images/macos/step-06-image-08.png)
+![저장소 선택](/docs/images/macos/step-06-image-08.png)
 
-3. 아래 사진처럼 내가 제거한 내용과 새로 작성한 내용을 각각 빨간색과 초록색으로 확인할 수 있습니다.
+아래 사진처럼 내가 제거한 내용과 새로 작성한 내용을 각각 빨간색과 초록색으로 확인할 수 있습니다.
 
-    ![변경 사항 확인](/docs/images/macos/step-06-image-09.png)
+![변경 사항 확인](/docs/images/macos/step-06-image-09.png)
 
 
 ## ✅ 완료!

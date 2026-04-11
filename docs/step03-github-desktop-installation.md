@@ -17,20 +17,20 @@ GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않
 
 ### 1단계: GitHub Desktop 다운로드
 
-1. 인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://desktop.github.com/download/`를 입력하세요.
+인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://desktop.github.com/download/`를 입력하세요.
 
-   ![주소 입력](/docs/images/step-03-image-01.png)
-   
-2. 화면에서 큰 **"Download for Windows"** 버튼을 찾아서 클릭하세요.
+![주소 입력](/docs/images/step-03-image-01.png)
 
-   ![GitHub Desktop Windows 다운로드](/docs/images/step-03-image-02.png)
+화면에서 큰 **"Download for Windows"** 버튼을 찾아서 클릭하세요.
+
+![GitHub Desktop Windows 다운로드](/docs/images/step-03-image-02.png)
 
 ### 2단계: 설치 프로그램 실행
 
-1. 다운로드가 완료되면, 다운로드 폴더에서 **`GitHubDesktopSetup-x64.exe` 또는 비슷한 이름의 파일**을 찾으세요.
-2. 그 파일을 **더블클릭**해서 실행하세요.
+다운로드가 완료되면, 다운로드 폴더에서 **`GitHubDesktopSetup-x64.exe` 또는 비슷한 이름의 파일**을 찾으세요.
+그 파일을 **더블클릭**해서 실행하세요.
 
-   ![Windows 다운로드 폴더에서 GitHub Desktop 설치 파일 찾기](/docs/images/step-03-image-03.png)
+![Windows 다운로드 폴더에서 GitHub Desktop 설치 파일 찾기](/docs/images/step-03-image-03.png)
 
 ### 3단계: GitHub Desktop 실행하기
 
@@ -52,19 +52,19 @@ GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않
 
 #### 로그인 진행하기
 
-1. 버튼을 클릭하면 인터넷 브라우저(Chrome, Microsoft Edge 등)가 자동으로 열립니다.
-2. GitHub 웹사이트의 **로그인 페이지**가 나타나면, 우리가 STEP 02에서 만든 **이메일**과 **비밀번호**를 입력하세요.
+버튼을 클릭하면 인터넷 브라우저(Chrome, Microsoft Edge 등)가 자동으로 열립니다.
+GitHub 웹사이트의 **로그인 페이지**가 나타나면, 우리가 STEP 02에서 만든 **이메일**과 **비밀번호**를 입력하세요.
 
-   ![GitHub 웹사이트 로그인 페이지](/docs/images/step-03-image-05.png)
-3. 처음으로 GitHub Desktop에서 로그인하는 경우, "Authorize GitHub Desktop"이라는 페이지가 나타납니다. 이 페이지에서 `Continue` 버튼을 클릭합니다.
+![GitHub 웹사이트 로그인 페이지](/docs/images/step-03-image-05.png)
+처음으로 GitHub Desktop에서 로그인하는 경우, "Authorize GitHub Desktop"이라는 페이지가 나타납니다. 이 페이지에서 `Continue` 버튼을 클릭합니다.
 
-   ![Authorize GitHub Desktop](/docs/images/step-03-image-06.png)
-4. 이어서 "Authorize desktop" 버튼을 클릭합니다.
+![Authorize GitHub Desktop](/docs/images/step-03-image-06.png)
+이어서 "Authorize desktop" 버튼을 클릭합니다.
 
-   ![Authorize desktop 버튼](/docs/images/step-03-image-07.png)
-5. GitHub Desktop으로 돌아가면 "Configure Git"이라는 글씨가 보입니다. **아무것도 건드리지 않고** "Finish" 버튼을 클릭합니다.
+![Authorize desktop 버튼](/docs/images/step-03-image-07.png)
+GitHub Desktop으로 돌아가면 "Configure Git"이라는 글씨가 보입니다. **아무것도 건드리지 않고** "Finish" 버튼을 클릭합니다.
 
-   ![Configure Git 화면](/docs/images/step-03-image-08.png)
+![Configure Git 화면](/docs/images/step-03-image-08.png)
 
 ## ✅ 완료!
 아래와 같은 화면이 보이면 성공적으로 GitHub Desktop에 로그인한 것입니다! 🎉

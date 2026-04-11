@@ -20,13 +20,13 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 ### 2단계: 새 저장소 만들기
 
-1. 왼쪽 상단의 `File` 메뉴를 클릭합니다.
-   
-   ![File 메뉴 클릭](/docs/images/step-04-image-02.png)
+왼쪽 상단의 `File` 메뉴를 클릭합니다.
 
-2. `New Repository...`를 선택합니다.
+![File 메뉴 클릭](/docs/images/step-04-image-02.png)
 
-   ![File 메뉴에서 New Repository 선택](/docs/images/step-04-image-03.png)
+`New Repository...`를 선택합니다.
+
+![File 메뉴에서 New Repository 선택](/docs/images/step-04-image-03.png)
 
 ### 3단계: 저장소 정보 입력하기
 
@@ -89,29 +89,29 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 이제 우리 컴퓨터(노트북)에 만든 저장소를 GitHub에 업로드해봅시다!
 
-1. GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
+GitHub Desktop 오른쪽 위에 있는 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 버튼](/docs/images/step-04-image-12.png)
+![Publish repository 버튼](/docs/images/step-04-image-12.png)
 
-2. 새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
+새 창이 열리면, "Keep this code private" 박스를 클릭해 체크를 해제함으로써 다른 사람들이 우리 저장소를 볼 수 있도록 설정합니다. 그리고 `Publish repository` 버튼을 클릭합니다.
 
-   ![Publish repository 설정 창](/docs/images/step-04-image-13.png)
+![Publish repository 설정 창](/docs/images/step-04-image-13.png)
 
-   잠깐 기다리면 저장소가 GitHub에 업로드됩니다!
+잠깐 기다리면 저장소가 GitHub에 업로드됩니다!
 
 ### 6단계: GitHub에서 확인하기
 
-1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
+GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
+![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
 
-2. `View on GitHub`를 클릭합니다.
+`View on GitHub`를 클릭합니다.
 
-   ![Repository 메뉴에서 View on GitHub 선택](/docs/images/step-04-image-15.png)
+![Repository 메뉴에서 View on GitHub 선택](/docs/images/step-04-image-15.png)
 
-2. 웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
+웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 GitHub에 업로드된 저장소를 확인할 수 있습니다!
 
-   ![GitHub에 업로드된 저장소 확인](/docs/images/step-04-image-16.png)
+![GitHub에 업로드된 저장소 확인](/docs/images/step-04-image-16.png)
 
 ## ✅ 완료!
 축하합니다! 🎉 GitHub Desktop으로 내 컴퓨터(노트북)에 저장소를 만들고 GitHub에 업로드했습니다!
@@ -120,21 +120,21 @@ GitHub Desktop을 사용하여 로컬에서 Repository(저장소)를 만들고, 
 
 다음 단계에서 GitHub에 업로드한 저장소를 내 컴퓨터(노트북)로 복제해오는 연습을 하기 위해, 방금 만든 폴더를 제거해봅시다.
 
-1. GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
+GitHub Desktop에서 위쪽 메뉴의 `Repository`를 클릭합니다.
 
-   ![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
+![Repository 메뉴 클릭](/docs/images/step-04-image-14.png)
 
-2. `Remove...`를 클릭합니다.
+`Remove...`를 클릭합니다.
 
-   ![Repository 메뉴에서 Remove 선택](/docs/images/step-04-image-17.png)
+![Repository 메뉴에서 Remove 선택](/docs/images/step-04-image-17.png)
 
-3. 아래 사전처럼 "Also move this repository to Recycle Bin" 박스를 클릭해 체크함으로써 내 컴퓨터(노트북)에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
+아래 사전처럼 "Also move this repository to Recycle Bin" 박스를 클릭해 체크함으로써 내 컴퓨터(노트북)에서 저장소를 완전히 삭제하도록 설정합니다. 그리고 `Remove` 버튼을 클릭합니다.
 
-   ![Remove 확인 창](/docs/images/step-04-image-18.png)
+![Remove 확인 창](/docs/images/step-04-image-18.png)
 
-   > [!NOTE]
-   > **왜 삭제하나요?**
-   > 걱정하지 마세요! 방금 우리는 저장소를 GitHub에 업로드했으니까요! 다음 내용에서 GitHub에 있는 저장소를 우리 컴퓨터(노트북)로 복제해오는 연습을 할 거예요.
+> [!NOTE]
+> **왜 삭제하나요?**
+> 걱정하지 마세요! 방금 우리는 저장소를 GitHub에 업로드했으니까요! 다음 내용에서 GitHub에 있는 저장소를 우리 컴퓨터(노트북)로 복제해오는 연습을 할 거예요.
 
 이제 우리는 **Git**을 설치하고, **GitHub Desktop**을 설치하고, **GitHub 계정**을 만들고, **저장소**도 만들어서 **GitHub에 업로드**했습니다!
 
