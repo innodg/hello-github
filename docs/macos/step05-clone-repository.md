@@ -10,7 +10,7 @@
 
 ### 1단계: 깃허브 데스크탑 실행
 
-만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + Space`를 눌러 검색창에서 `GitHub Desktop`을 검색한 후 클릭해 실행합니다.
+만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + 스페이스 바`를 눌러 검색창에서 `GitHub Desktop`을 검색한 후 Enter 키를 눌러 실행합니다.
 
 ![깃허브 데스크탑 실행 화면](/docs/images/macos/step-05-image-01.png)
 
