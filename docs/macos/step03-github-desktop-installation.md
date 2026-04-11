@@ -42,6 +42,7 @@ GitHub Desktop(깃허브 데스크탑)이라는 프로그램을 설치합니다.
 ### 4단계: 깃허브 데스크탑에서 깃허브 계정으로 로그인하기
 
 이제 다음과 같은 화면이 보입니다.
+
 ![첫 실행 화면](/docs/images/macos/step-03-image-07.png)
 
 > [!TIP]
@@ -86,4 +87,4 @@ GitHub Desktop(깃허브 데스크탑)이라는 프로그램을 설치합니다.
 
 👈 이전: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
 
-👉 다음: [STEP 04: GitHub 저장소 생성](/docs/step04-create-repository.md)
+👉 다음: [STEP 04: GitHub 저장소 생성](/docs/macos/step04-create-repository.md)

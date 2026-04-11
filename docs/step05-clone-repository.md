@@ -6,6 +6,9 @@ GitHub에 만든 저장소를 내 컴퓨터로 가져오는 방법입니다. 이
 ## 📚 클론(Clone)이 뭔가요?
 클론(Clone)은 GitHub의 저장소를 내 컴퓨터에 복사하는 작업입니다.
 
+> [!IMPORTANT]
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 05 문서](/docs/macos/step05-clone-repository.md)를 클릭해 이동합니다.
+
 ## 🔽 클론하기
 
 ### 1단계: GitHub Desktop 실행
