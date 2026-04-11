@@ -1,14 +1,14 @@
-# STEP 01: Git 설치 안내 (macOS)
+# STEP 01: 깃 설치 안내 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
-Git(깃)이 무엇인지 알아보고, 우리 컴퓨터에 설치하는 과정입니다.
+깃(Git)이 무엇인지 알아보고, 우리 컴퓨터에 설치하는 과정입니다.
 
-## 📚 깃이 뭔가요?
-깃은 우리가 만드는 파일들의 변화를 기록해주는 도구입니다. 
-마치 게임을 할 때 세이브 포인트를 여러 개 만들어두는 것처럼, 깃은 우리의 파일 변화를 계속 기록해줍니다.
+## 📚 깃(Git)이 뭔가요?
+깃(Git)은 우리가 만드는 파일들의 변화를 기록해주는 도구입니다. 
+마치 게임을 할 때 세이브 포인트를 여러 개 만들어두는 것처럼, 깃(Git)은 우리의 파일 변화를 계속 기록해줍니다.
 
 > [!TIP]
-> Git(깃) = 파일의 변화를 자동으로 기록해주는 일기장 📝
+> 깃(Git) = 파일의 변화를 자동으로 기록해주는 일기장 📝
 
 ## 💾 깃 설치하기
 
@@ -73,14 +73,14 @@ macOS에서 깃을 설치하는 가장 쉬운 방법은 **홈브류**라는 패�
 
 터미널에 `brew install git`를 입력한 후, Enter 키를 누릅니다.
 
-![Git 설치 명령어 입력](/docs/images/macos/step-01-image-08.png)
+![깃 설치 명령어 입력](/docs/images/macos/step-01-image-08.png)
 
 설치를 완료할 때까지 기다립니다 (몇 분 정도 걸릴 수 있습니다).
 
 > [!TIP]
 > 아래 사진과 같이 글자를 입력할 수 있는 상태로 돌아오면 설치를 완료한 것입니다.
 
-![Git 설치 완료](/docs/images/macos/step-01-image-09.png)
+![깃 설치 완료](/docs/images/macos/step-01-image-09.png)
 
 ### 3단계: 설치 확인하기
 
@@ -88,15 +88,15 @@ macOS에서 깃을 설치하는 가장 쉬운 방법은 **홈브류**라는 패�
 
 터미널에 `git --version`을 입력하고 Enter 키를 누릅니다.
 
-![Git 버전 확인 명령어 입력](/docs/images/macos/step-01-image-10.png)
+![깃 버전 확인 명령어 입력](/docs/images/macos/step-01-image-10.png)
 
 화면에 `git version x.x.x` 글자가 보이면 **설치 성공**입니다! 🎉
 
-![Git 버전 확인 성공](/docs/images/macos/step-01-image-11.png)
+![깃 버전 확인 성공](/docs/images/macos/step-01-image-11.png)
 
 ## ✅ 완료!
 깃을 성공적으로 설치했습니다!
 
 ---
 
-👉 다음: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
+👉 다음: [STEP 02: 깃허브 가입](/docs/step02-github-signup.md)

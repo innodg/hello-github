@@ -1,13 +1,13 @@
 # STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
-내 컴퓨터에 있는 저장소 파일을 직접 수정하거나 새로 만드는 방법입니다. 파일을 바꾸면 GitHub Desktop(깃허브 데스크탑)에서 어떤 내용이 변경되었는지도 함께 확인할 수 있습니다.
+내 컴퓨터에 있는 저장소(Repository) 파일을 직접 수정하거나 새로 만드는 방법입니다. 파일을 바꾸면 깃허브 데스크탑(GitHub Desktop)에서 어떤 내용이 변경되었는지도 함께 확인할 수 있습니다.
 
 ## 📂 파일 수정 또는 생성하기
 
 ### 1단계: 파일 열기
 
-GitHub(깃허브)로부터 복제해온 저장소(폴더)를 Finder(파인더)에서 찾습니다.
+깃허브로부터 복제해온 저장소(폴더)를 Finder(파인더)에서 찾습니다.
 
 ![Finder 열기](/docs/images/macos/step-06-image-01.png)
 
@@ -50,7 +50,7 @@ Finder 창이 열리면, 오른쪽 위 돋보기 버튼을 클릭합니다.
 
 `command + 스페이스바`를 눌러 검색창을 열고, "GitHub Desktop"을 입력한 후 엔터를 눌러 깃허브 데스크탑을 실행합니다.
 
-![GitHub Desktop 검색](/docs/images/macos/step-06-image-07.png)
+![깃허브 데스크탑 검색](/docs/images/macos/step-06-image-07.png)
 
 깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 `my-first-project`로 나타나는 지 확인합니다.
 
@@ -67,12 +67,12 @@ Finder 창이 열리면, 오른쪽 위 돋보기 버튼을 클릭합니다.
 ## ✅ 완료!
 축하합니다! 🎉 내 컴퓨터 속 저장소에서 파일을 직접 수정하는 작업을 성공적으로 해냈습니다!
 
-이제 우리는 내 컴퓨터에서 프로젝트 파일을 편집하는 방법을 익혔고, 파일을 저장하면 GitHub Desktop이 변경 내용을 자동으로 보여준다는 것도 확인했습니다.
+이제 우리는 내 컴퓨터에서 프로젝트 파일을 편집하는 방법을 익혔고, 파일을 저장하면 깃허브 데스크탑이 변경 내용을 자동으로 보여준다는 것도 확인했습니다.
 
 다음 단계에서는 이렇게 수정한 내용에 대한 세이브 포인트를 만들고 깃허브에 업로드하는 방법을 배워봅니다.
 
 ---
 
-👈 이전: [STEP 05: GitHub Desktop으로 저장소 클론하기](/docs/macos/step05-clone-repository.md)
+👈 이전: [STEP 05: 깃허브 데스크탑으로 저장소 클론하기](/docs/macos/step05-clone-repository.md)
 
-👉 다음: [STEP 07: GitHub Desktop에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
+👉 다음: [STEP 07: 깃허브 데스크탑에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
