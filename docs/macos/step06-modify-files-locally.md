@@ -55,7 +55,7 @@ Finder 창이 열리면, 오른쪽 위 돋보기 버튼을 클릭합니다.
 깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 `my-first-project`로 나타나는 지 확인합니다.
 
 > [!NOTE]
-> 만약 `my-first-project`가 아니라면, `Current Repository`를 클릭한 후 `my-first-project`를 선택하세요.
+> 만약 저장소의 이름이 `my-first-project`가 아니라면 `Current Repository`를 클릭한 후 `my-first-project`를 선택합니다.
 
 ![저장소 선택](/docs/images/macos/step-06-image-08.png)
 

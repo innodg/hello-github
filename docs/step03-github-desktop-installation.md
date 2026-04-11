@@ -11,41 +11,40 @@
 > 깃허브 데스크탑(GitHub Desktop) = 깃(Git)을 쉽게 사용할 수 있는 프로그램 🖥️
 
 > [!IMPORTANT]
-> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 03 문서](/docs/macos/step03-github-desktop-installation.md)로 이동해주세요.
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 03 문서](/docs/macos/step03-github-desktop-installation.md)로 이동합니다.
 
 ## 💾 깃허브 데스크탑 설치하기
 
 ### 1단계: 깃허브 데스크탑 다운로드
 
-인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://desktop.github.com/download/`를 입력하세요.
+인터넷 브라우저(Microsoft Edge, Chrome 등)를 열어서 주소창에 `https://desktop.github.com/download/`를 입력합니다.
 
 ![주소 입력](/docs/images/step-03-image-01.png)
 
-화면에서 큰 **"Download for Windows"** 버튼을 찾아서 클릭하세요.
+화면에서 큰 **"Download for Windows"** 버튼을 찾아서 클릭합니다.
 
 ![깃허브 데스크탑 Windows 다운로드](/docs/images/step-03-image-02.png)
 
 ### 2단계: 설치 프로그램 실행
 
-다운로드가 완료되면, 다운로드 폴더에서 **`GitHubDesktopSetup-x64.exe` 또는 비슷한 이름의 파일**을 찾으세요.
-그 파일을 **더블클릭**해서 실행하세요.
+다운로드가 완료되면, 다운로드 폴더에서 **`GitHubDesktopSetup-x64.exe` 또는 비슷한 이름의 파일**을 찾은 후 **더블클릭**해서 실행합니다.
 
 ![Windows 다운로드 폴더에서 깃허브 데스크탑 설치 파일 찾기](/docs/images/step-03-image-03.png)
 
 ### 3단계: 깃허브 데스크탑 실행하기
 
 > [!TIP]
-> 깃허브 데스크탑은 자동으로 설치되고 실행됩니다. **잠시 기다려주세요!**
+> 깃허브 데스크탑은 자동으로 설치되고 실행됩니다. 잠시 기다려야 합니다!
 
 > [!TIP]
-> 만약 자동으로 실행되지 않으면, 다음 단계를 따라주세요 :
-> 1. **윈도우 시작 메뉴**를 클릭하세요.
-> 2. "프로그램 및 파일 검색" 부분을 클릭한 후, "GitHub Desktop"을 검색하세요.
-> 3. **깃허브 데스크탑**을 클릭해서 실행하세요.
+> 만약 자동으로 실행되지 않으면, 다음 단계를 수행합니다 :
+> 1. **윈도우 시작 메뉴**를 클릭합니다.
+> 2. "프로그램 및 파일 검색" 부분을 클릭한 후, "GitHub Desktop"을 검색합니다.
+> 3. **GitHub Desktop**을 클릭해서 실행합니다.
 
 ### 4단계: 깃허브 데스크탑에서 깃허브 계정으로 로그인하기
 
-"Sign in to GitHub.com"이라는 파란색 버튼을 찾아 클릭합니다.
+`Sign in to GitHub.com`이라는 버튼을 찾아 클릭합니다.
 
 ![깃허브 데스크탑 첫 실행 화면](/docs/images/step-03-image-04.png)
 
@@ -53,7 +52,7 @@
 #### 로그인 진행하기
 
 버튼을 클릭하면 인터넷 브라우저(Chrome, Microsoft Edge 등)가 자동으로 열립니다.
-깃허브 웹사이트의 **로그인 페이지**가 나타나면, 우리가 STEP 02에서 만든 **이메일**과 **비밀번호**를 입력하세요.
+깃허브 웹사이트의 **로그인 페이지**가 나타나면, 우리가 STEP 02에서 만든 **이메일**과 **비밀번호**를 입력합니다.
 
 ![깃허브 웹사이트 로그인 페이지](/docs/images/step-03-image-05.png)
 처음으로 깃허브 데스크탑에서 로그인하는 경우, "Authorize GitHub Desktop"이라는 페이지가 나타납니다. 이 페이지에서 `Continue` 버튼을 클릭합니다.

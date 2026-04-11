@@ -11,7 +11,7 @@
 > 깃(Git) = 파일의 변화를 자동으로 기록해주는 일기장 📝
 
 > [!IMPORTANT]
-> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 기본적으로 맥에 존재하는 깃(Git)을 사용할 예정입니다. 곧바로 [STEP02 : 깃허브(GitHub) 가입](/docs/step02-github-signup.md)으로 이동합니다.
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 기본적으로 내 컴퓨터(노트북)에 존재하는 깃(Git)을 사용할 예정입니다. 곧바로 [STEP02 : 깃허브(GitHub) 가입](/docs/step02-github-signup.md)으로 이동합니다.
 
 ## 💾 깃 설치하기
 
@@ -21,7 +21,7 @@
 
 ![url 입력](/docs/images/step-01-image-01.png)
 
-화면에서 두 가지 링크가 보입니다. 본인 컴퓨터에 알맞은 링크를 클릭해 다운로드하세요 :
+화면에서 두 가지 링크가 보입니다. 본인 컴퓨터에 알맞은 링크를 클릭해 다운로드합니다 :
 - `Git for Windows/x64 Setup` (대부분의 경우)
 - `Git for Windows/ARM64 Setup`
 
@@ -41,7 +41,7 @@
 
 ![깃 설치 마법사 첫 화면](/docs/images/step-01-image-04.png)
 
-초록색 바가 끝까지 차면 설치를 완료한 것입니다. 그럼 다음과 같은 화면이 나타납니다. 이때, `View Release Notes`를 클릭해 체크 표시가 나오도록 한 후 `Finish` 버튼을 클릭하세요.
+초록색 바가 끝까지 차면 설치를 완료한 것입니다. 그럼 다음과 같은 화면이 나타납니다. 이때, `View Release Notes`를 클릭해 체크 표시가 나오도록 한 후 `Finish` 버튼을 클릭합니다.
 
 ![깃 설치 완료 화면](/docs/images/step-01-image-05.png)
 

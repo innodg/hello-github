@@ -56,7 +56,7 @@
 아래 사진 속 빨간 네모 부분에 있는 `Pull origin` 버튼을 클릭합니다.
 
 > [!TIP]
-> 만약 글씨가 `Pull origin`이 아니라 `Fetch origin`으로 보인다면, 동일한 위치에 있는 `Fetch origin` 버튼을 클릭한 뒤 다시 `Pull origin` 버튼이 나타나는지 확인해보세요.
+> 만약 글씨가 `Pull origin`이 아니라 `Fetch origin`으로 보인다면, 동일한 위치에 있는 `Fetch origin` 버튼을 클릭한 뒤 다시 `Pull origin` 버튼이 나타나는지 확인해봅니다.
 
 ![Pull origin 버튼](/docs/images/macos/step-08-image-05.png)
 

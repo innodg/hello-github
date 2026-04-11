@@ -74,7 +74,7 @@
 
 ![Open GitHub Desktop](/docs/images/macos/step-03-image-13.png)
 
-깃허브 데스크탑으로 돌아가면 "Clone a Repository"라는 글씨가 보입니다. 아무것도 건드리지 않고 오른쪽 위에 위치한 X 버튼을 클릭해 창을 닫아주세요.
+깃허브 데스크탑으로 돌아가면 "Clone a Repository"라는 글씨가 보입니다. 아무것도 건드리지 않고 오른쪽 위에 위치한 X 버튼을 클릭해 창을 닫습니다.
 
 ![Clone a Repository 화면](/docs/images/macos/step-03-image-14.png)
 
