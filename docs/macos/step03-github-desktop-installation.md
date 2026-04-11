@@ -46,8 +46,9 @@ GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않
 ### 4단계: GitHub Desktop에서 GitHub 계정으로 로그인하기
 
 이제 다음과 같은 화면이 보입니다.
+
 > [!TIP]
-> 만약 보이지 않는다면, Applications 폴더에서 GitHub Desktop을 찾아 실행해주세요.
+> 만약 보이지 않는다면, `command + 스페이스바`를 눌러 검색창을 열고 GitHub Desktop을 검색한 후 엔터를 눌러 실행하면 됩니다.
 
 ![첫 실행 화면](/docs/images/macos/step-03-image-08.png)
 
@@ -79,4 +80,4 @@ GitHub Desktop은 Git을 사용할 때 **복잡한 명령어를 입력하지 않
 
 👈 이전: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
 
-👉 다음: [STEP 04: GitHub 저장소 생성](/docs/step04-create-repository.md)
+👉 다음: [STEP 04: GitHub 저장소 생성](/docs/macos/step04-create-repository.md)
