@@ -1,29 +1,29 @@
-# STEP 07: GitHub Desktop에서 커밋 후 푸시하기 (macOS)
+# STEP 07: 깃허브 데스크탑에서 커밋 후 푸시하기 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
-Commit(커밋)은 수정한 파일을 그냥 저장하는 것을 넘어, 어떤 내용을 바꿨는지 기록으로 남기는 방법입니다. 커밋을 통해 작업 내용을 차곡차곡 정리하고 관리하는 흐름을 익힙니다.
+커밋(Commit)은 수정한 파일을 그냥 저장하는 것을 넘어, 어떤 내용을 바꿨는지 기록으로 남기는 방법입니다. 커밋(Commit)을 통해 작업 내용을 차곡차곡 정리하고 관리하는 흐름을 익힙니다.
 
-Push(푸시)는 내 맥에서 작업한 내용을 GitHub(깃허브) 사이트에 올리는 방법입니다. 푸시를 하면 내 컴퓨터에서 만든 변경 사항을 깃허브에도 반영할 수 있습니다.
+푸시(Push)는 내 컴퓨터(노트북)에서 작업한 내용을 깃허브(GitHub) 사이트에 올리는 방법입니다. 푸시(Push)를 하면 내 컴퓨터에서 만든 변경 사항을 깃허브(GitHub)에도 반영할 수 있습니다.
 
 ## 📚 커밋(Commit)이 뭔가요?
-커밋은 변경된 파일을 저장소의 히스토리에 기록하는 작업입니다.
+커밋(Commit)은 변경된 파일을 저장소(Repository)의 히스토리에 기록하는 작업입니다.
 
 > [!TIP]
 > **히스토리**란 파일을 언제 어떻게 수정했는지 남겨두는 기록을 말합니다. 히스토리 덕분에 나중에 변경 내용을 다시 확인할 수 있습니다.
 
-## 📚 Push(푸시)가 뭔가요?
-푸시는 내 컴퓨터에서 커밋한 변경 사항을 깃허브에 업로드하는 작업입니다.
+## 📚 푸시(Push)가 뭔가요?
+푸시(Push)는 내 컴퓨터에서 커밋(Commit)한 변경 사항을 깃허브(GitHub)에 업로드하는 작업입니다.
 
 ## ✍️ 커밋하기
 
-### 1단계: GitHub Desktop 확인
+### 1단계: 깃허브 데스크탑 확인
 
 > [!TIP]
 > 깃허브 데스크탑을 실행중이지 않다면, [STEP 06 : 변경 사항 확인](/docs/macos/step06-modify-files-locally.md#변경-사항-확인)을 참고해 깃허브 데스크탑을 우선 실행합니다.
 
 깃허브 데스크탑에서 파일의 변경 사항을 확인합니다.
 
-![GitHubDesktop 변경사항](/docs/images/macos/step-07-image-01.png)
+![깃허브 데스크탑 변경사항](/docs/images/macos/step-07-image-01.png)
 
 ### 2단계: 파일 선택
 
@@ -32,29 +32,29 @@ Push(푸시)는 내 맥에서 작업한 내용을 GitHub(깃허브) 사이트에
 > [!TIP]
 > 기본적으로 모든 변경 사항을 커밋하도록 수정한 내용이 있는 파일들을 모두 선택합니다
 
-![GitHubDesktop 파일 선택](/docs/images/macos/step-07-image-02.png)
+![깃허브 데스크탑 파일 선택](/docs/images/macos/step-07-image-02.png)
 
 ### 3단계: 커밋 내용(메시지) 작성
 
 커밋을 위한 내용(메시지)을 작성합니다.
 
-1. 아래 사진 속 화살표 방향 칸에 커밋 제목을 작성합니다.
+아래 사진 속 화살표 방향 칸에 커밋 제목을 작성합니다.
 
-    > [!TIP]
-    > **커밋 제목** : 이번에 무엇을 바꿨는지 한 줄로 짧게 쓰는 부분입니다.
+> [!TIP]
+> **커밋 제목** : 이번에 무엇을 바꿨는지 한 줄로 짧게 쓰는 부분입니다.
 
-    ![GitHubDesktop 커밋 메시지 : 제목](/docs/images/macos/step-07-image-03.png)
+![깃허브 데스크탑 커밋 메시지 : 제목](/docs/images/macos/step-07-image-03.png)
 
-2. 아래 사진 속 화살표 방향 칸에 커밋 본문을 작성합니다.
+아래 사진 속 화살표 방향 칸에 커밋 본문을 작성합니다.
 
-    > [!TIP]
-    > **커밋 본문**: 제목만으로 설명이 부족할 때, 자세한 내용을 덧붙여 쓰는 부분
+> [!TIP]
+> **커밋 본문**: 제목만으로 설명이 부족할 때, 자세한 내용을 덧붙여 쓰는 부분
 
-    ![GitHubDesktop 커밋 메시지 : 본문](/docs/images/macos/step-07-image-04.png)
+![깃허브 데스크탑 커밋 메시지 : 본문](/docs/images/macos/step-07-image-04.png)
 
 ### 4단계: 커밋 버튼 클릭
 
-![GitHubDesktop 커밋 버튼](/docs/images/macos/step-07-image-05.png)
+![깃허브 데스크탑 커밋 버튼](/docs/images/macos/step-07-image-05.png)
 
 `Commit 1 file to main` 버튼을 클릭하여 커밋합니다.
 
@@ -62,56 +62,56 @@ Push(푸시)는 내 맥에서 작업한 내용을 GitHub(깃허브) 사이트에
 
 ### 1단계: 푸시 버튼 클릭
 
-GitHub Desktop 위쪽 부분에서 세 번째 공간에 있는 `Push origin` 버튼을 클릭합니다.
+깃허브 데스크탑 위쪽 부분에서 세 번째 공간에 있는 `Push origin` 버튼을 클릭합니다.
 
-![Push 버튼](/docs/images/macos/step-07-image-06.png)
+![푸시 버튼](/docs/images/macos/step-07-image-06.png)
 
 성공적으로 푸시했다면, 다음과 같이 `Fetch origin` 버튼으로 바뀝니다.
 
-![Push 성공 후 버튼](/docs/images/macos/step-07-image-07.png)
+![푸시 성공 후 버튼](/docs/images/macos/step-07-image-07.png)
 
-### 2단계: GitHub 웹사이트에서 확인
+### 2단계: 깃허브 웹사이트에서 확인
 [깃허브](https://github.com) 링크를 클릭해 깃허브 웹사이트(Microsoft Edge, Chrome 등)로 이동합니다.
 
 ### 3단계: 저장소 확인
 
 로그인한 상태라면, 다음과 같은 화면이 보입니다.
 
-![GitHub 웹사이트 로그인 후 화면](/docs/images/macos/step-07-image-08.png)
+![깃허브 웹사이트 로그인 후 화면](/docs/images/macos/step-07-image-08.png)
 
 > [!NOTE]
-> 만약 로그인하지 않았다면, [GitHub 로그인하기](/docs/step02-github-signup.md#github-로그인하기)를 참고해 로그인을 먼저 수행합니다.
+> 만약 로그인하지 않았다면, [깃허브 로그인하기](/docs/step02-github-signup.md#github-로그인하기)를 참고해 로그인을 먼저 수행합니다.
 
 로그인을 했다면, 아래 사진과 같이 `my-first-project` 저장소를 클릭하여 이동합니다.
 
-![GitHub 웹사이트 저장소(my-first-project)](/docs/images/macos/step-07-image-09.png)
+![깃허브 웹사이트 저장소(my-first-project)](/docs/images/macos/step-07-image-09.png)
 
 > [!TIP]
 > 만약 기존에 저장소들을 여러 개 만들어 둔 상황이라면, `my-first-project` 저장소를 찾기 어려울 수 있습니다. 이럴 경우에는 아래 사진과 같이 검색창에 "my-first-project"를 입력하면 쉽게 찾을 수 있습니다.
 >
-> ![GitHub 웹사이트 저장소 검색](/docs/images/macos/step-07-image-10.png)
+> ![깃허브 웹사이트 저장소 검색](/docs/images/macos/step-07-image-10.png)
 
-자신이 작성한 README(리드미) 파일 내용이 맞는지 확인합니다.
+자신이 작성한 리드미 파일 내용이 맞는지 확인합니다.
 
-![GitHub 웹사이트 README 파일 확인](/docs/images/macos/step-07-image-11.png)
+![깃허브 웹사이트 README 파일 확인](/docs/images/macos/step-07-image-11.png)
 
 자신이 작성한 커밋 메시지도 한 번 확인해봅니다. 아래 사진 속 빨간 네모 부분의 텍스트를 클릭합니다. 
 
-![GitHub 웹사이트 커밋 메시지 확인](/docs/images/macos/step-07-image-12.png)
+![깃허브 웹사이트 커밋 메시지 확인](/docs/images/macos/step-07-image-12.png)
 
 커밋 메시지 제목과 본문이 모두 보이는지 확인합니다.
 
-![GitHub 웹사이트 커밋 메시지 제목과 본문 확인](/docs/images/macos/step-07-image-13.png)
+![깃허브 웹사이트 커밋 메시지 제목과 본문 확인](/docs/images/macos/step-07-image-13.png)
 
 ## ✅ 완료!
-축하합니다! 🎉 수정한 파일을 커밋하고 GitHub까지 성공적으로 업로드했습니다!
+축하합니다! 🎉 수정한 파일을 커밋하고 깃허브까지 성공적으로 업로드했습니다!
 
 이제 우리는 파일을 수정한 뒤, 그 내용을 커밋하고, 푸시를 통해 깃허브에 반영하는 전체 흐름을 한 번 완성했습니다.
 
-다음 단계에서는 커밋 이후 다른 변경 사항을 가져오는 방법인 풀(Pull)을 배우면서, 협업 흐름까지 더 확장해볼 예정입니다.
+다음 단계에서는 커밋 이후 다른 변경 사항을 가져오는 방법인 풀을 배우면서, 협업 흐름까지 더 확장해볼 예정입니다.
 
 ---
 
 👈 이전: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](/docs/macos/step06-modify-files-locally.md)
 
-👉 다음: [STEP 08: Pull해서 GitHub 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)
+👉 다음: [STEP 08: 풀해서 깃허브 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)

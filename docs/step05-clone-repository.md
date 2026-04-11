@@ -19,7 +19,7 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 
 ![로그인 이미지](images/step-05-image-04.png)
 
-> 로그인이 안되어있다면 [STEP 03: GitHub Desktop 설치 안내](./step03-github-desktop-installation.md)로 돌아가 로그인을 진행해주세요.
+> 로그인을 안 했다면 [STEP 03: GitHub Desktop 설치 안내](./step03-github-desktop-installation.md)로 돌아가 로그인을 진행합니다.
 
 ### 3단계: 저장소 클론
 
@@ -46,7 +46,7 @@ GitHub Desktop을 처음 실행할 경우, GitHub 계정으로 로그인합니�
 
 이제 우리는 GitHub에 있던 원격 저장소를 내 컴퓨터와 연결했고, 실제로 내 컴퓨터에서 파일을 수정할 수 있는 준비를 마쳤습니다.
 
-다음 단계에서는 이 저장소 안의 파일을 직접 수정하거나 새로 만들어보면서, Git이 변경 사항을 어떻게 인식하는지 배워볼 거예요.
+다음 단계에서는 이 저장소 안의 파일을 직접 수정하거나 새로 만들어보면서, Git이 변경 사항을 어떻게 인식하는지 배워볼 예정입니다.
 
 ---
 

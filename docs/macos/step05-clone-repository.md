@@ -1,18 +1,18 @@
-# STEP 05: GitHub Desktop으로 저장소 클론하기 (macOS)
+# STEP 05: 깃허브 데스크탑으로 저장소 클론하기 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
-GitHub(깃허브)에 있는 저장소를 내 컴퓨터로 가져오는 방법입니다. 이 과정을 통해 원격 저장소와 내 컴퓨터에 있는 저장소를 연결하는 첫 단계를 익힙니다.
+깃허브(GitHub)에 있는 저장소(Repository)를 내 컴퓨터로 가져오는 방법입니다. 이 과정을 통해 원격 저장소(Repository)와 내 컴퓨터에 있는 저장소(Repository)를 연결하는 첫 단계를 익힙니다.
 
 ## 📚 클론(Clone)이 뭔가요?
-클론(Clone)은 GitHub(깃허브)의 저장소를 내 컴퓨터에 복사하는 작업입니다.
+클론(Clone)은 깃허브(GitHub)의 저장소(Repository)를 내 컴퓨터에 복사하는 작업입니다.
 
 ## 🔽 클론하기
 
-### 1단계: GitHub Desktop(깃허브 데스크탑) 실행
+### 1단계: 깃허브 데스크탑 실행
 
 만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + Space`를 눌러 검색창에서 `GitHub Desktop`을 검색한 후 클릭해 실행합니다.
 
-![GitHub Desktop 실행 화면](/docs/images/macos/step-05-image-01.png)
+![깃허브 데스크탑 실행 화면](/docs/images/macos/step-05-image-01.png)
 
 만약 깃허브 데스크탑에서 깃허브 계정으로 로그인하지 않았다면, [STEP 03: 로그인 진행하기](/docs/step03-github-desktop-installation.md#로그인-진행하기)를 클릭해 이동합니다.
 
@@ -39,6 +39,6 @@ GitHub(깃허브)에 있는 저장소를 내 컴퓨터로 가져오는 방법입
 
 ---
 
-👈 이전: [STEP 04: GitHub 저장소 생성](/docs/macos/step04-create-repository.md)
+👈 이전: [STEP 04: 깃허브 저장소 생성](/docs/macos/step04-create-repository.md)
 
 👉 다음: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](/docs/macos/step06-modify-files-locally.md)
