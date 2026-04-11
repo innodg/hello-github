@@ -6,6 +6,9 @@ GitHub 웹사이트에서 수정한 내용을 내 컴퓨터의 GitHub Desktop으
 ## 📚 풀(Pull)이 뭔가요?
 풀(Pull)은 GitHub의 원격 저장소에 있는 최신 변경 내용을 내 컴퓨터로 가져오는 작업입니다.
 
+> [!IMPORTANT]
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 08 문서](/docs/macos/step08-remote-commit-pull.md)를 클릭해 이동합니다.
+
 ## 🔽 GitHub에서 수정하고 풀하기
 
 ### 1단계: GitHub 웹사이트 접속
