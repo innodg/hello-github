@@ -14,7 +14,7 @@
 
 ### 1단계: 깃허브 데스크탑 실행
 
-만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + Space`를 눌러 검색창에서 `GitHub Desktop`을 검색해 실행합니다.
+만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + 스페이스 바`를 눌러 검색창에서 `GitHub Desktop`을 검색한 후 Enter 키를 눌러 실행합니다.
 
 실행하면 아래 사진과 같은 화면이 보입니다.
 
@@ -44,13 +44,13 @@
 "Name" 칸에 `my-first-project`를 입력합니다.
 
 > [!NOTE]
-> 다른 저장소 이름을 사용해도 상관없지만, 이번 시간에는 `my-first-project`로 저장소 이름을 설정합니다.
+> 다른 저장소 이름을 사용해도 괜찮지만, 이번 시간에는 `my-first-project`로 저장소 이름을 설정합니다.
 
 ![저장소 이름 입력](/docs/images/macos/step-04-image-04.png)
 
 #### Description(설명)
 
-"Description" 칸은 선택사항입니다. 우리 저장소가 어떤 목적의 저장소인지 간단히 설명하는 입력 칸입니다.
+"Description" 칸은 선택사항이라 내용을 적지 않아도 괜찮습니다. Description 칸에는 우리 저장소가 어떤 목적의 저장소인지 간단히 설명하면 됩니다.
 
 > [!TIP]
 > **예시**
@@ -78,15 +78,16 @@
 
 > [!TIP]
 > **리드미란?**
+> 
 > 리드미는 우리 저장소에 대해 설명하는 파일입니다. 마치 책의 앞표지처럼, 다른 사람들이 우리 저장소를 이해할 수 있도록 도와줍니다(물론 우리가 리드미에 내용을 작성해야 합니다).
 
 ### 4단계: 저장소 만들기
 
-모든 정보를 입력했으면, **"Create Repository"** 버튼을 클릭합니다.
+모든 정보를 입력했으면, `Create Repository` 버튼을 클릭합니다.
 
 ![Create Repository 버튼](/docs/images/macos/step-04-image-09.png)
 
-그럼 이제 화면이 바뀌며 우리가 만든 `my-first-project` 저장소가 보입니다.
+그럼 이제 화면이 바뀌며 우리가 만든 "my-first-project" 저장소가 보입니다.
 
 ![새로 만든 저장소 화면](/docs/images/macos/step-04-image-10.png)
 
@@ -115,7 +116,7 @@
 
 ![Repository 메뉴에서 View on GitHub 선택](/docs/images/macos/step-04-image-14.png)
 
-웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 깃허브에 업로드된 저장소를 확인할 수 있습니다!
+웹 브라우저(Microsoft Edge, Chrome 등)가 열리면서 깃허브에 업로드했던 저장소를 확인할 수 있습니다!
 
 ![깃허브에 업로드된 저장소 확인](/docs/images/macos/step-04-image-15.png)
 
@@ -124,7 +125,7 @@
 
 ### 마지막 단계: 만들었던 폴더 제거하기
 
-다음 단계에서 깃허브에 업로드한 저장소를 내 컴퓨터로 복제해오는 연습을 하기 위해, 방금 만든 폴더를 제거해봅시다.
+다음 단계에서 깃허브에 업로드한 저장소를 내 컴퓨터(노트북)로 복제해오는 연습을 하기 위해, 방금 만든 폴더를 제거해보겠습니다.
 
 화면 맨 위 메뉴 막대에서 `Repository`를 클릭합니다.
 
