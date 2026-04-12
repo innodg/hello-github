@@ -26,6 +26,9 @@
 
 다운로드를 완료하면, 다운로드 폴더에서 `GitHubDesktop-arm64.zip` (또는 비슷한 이름의 파일)을 찾아 더블클릭합니다.
 
+> [!TIP]
+> `command + 스페이스 바`를 눌러 검색창을 엽니다. 검색칸에 "finder"를 입력하고 Enter 키를 눌러 Finder(파인더)를 실행하면, 아래 사진처럼 다운로드 폴더를 찾을 수 있습니다.
+
 ![ZIP 파일](/docs/images/macos/step-03-image-03.png)
 
 파일이 열려 아래와 같은 창이 보인다면, `열기` 버튼을 클릭합니다.
@@ -41,7 +44,7 @@
 
 ### 4단계: 깃허브 데스크탑에서 깃허브 계정으로 로그인하기
 
-이제 다음과 같은 화면이 보입니다.
+이제 다음과 같거나 유사한 화면이 보입니다.
 
 ![첫 실행 화면](/docs/images/macos/step-03-image-07.png)
 
@@ -54,34 +57,34 @@
 
 #### 로그인 진행하기
 
-`Clone a Repository from the Internet...`라는 글씨가 적힌 버튼을 클릭합니다.
+아래 사진처럼 화면 왼쪽 가장 위에 위치한 메뉴에서 `GitHub Desktop`을 클릭합니다.
 
-![Clone a Repository 버튼](/docs/images/macos/step-03-image-09.png)
+![GitHub Desktop 메뉴](/docs/images/macos/step-03-image-09.png)
 
-그럼 다음과 같은 창이 보입니다. 먼저 `GitHub.com`을 선택한 후, `Sign in`이라 적힌 파란색 버튼을 클릭합니다.
+`Settings` 버튼을 클릭합니다.
 
-![Sign in 버튼](/docs/images/macos/step-03-image-10.png)
+![Settings 버튼](/docs/images/macos/step-03-image-10.png)
 
-이어서 아래 사진과 같이 `Continue With Browser`라고 적힌 버튼도 클릭합니다.
+그럼 아래 사진과 같은 창이 하나 나오는데, `Sign Into GitHub.com` 버튼을 클릭합니다.
 
-![Continue With Browser 버튼](/docs/images/macos/step-03-image-11.png)
+![Sign Into GitHub.com](/docs/images/macos/step-03-image-11.png)
+
+아래 사진과 같이 또 다른 창이 보이면, `Continue With Browser` 버튼을 클릭합니다.
+
+![Continue With Browser](/docs/images/macos/step-03-image-12.png)
 
 처음으로 깃허브 데스크탑에서 로그인하는 경우, "Authorize GitHub Desktop"이라는 화면이 나타납니다. 이 화면에서 `Continue` 버튼을 클릭합니다.
 
-![Authorize GitHub Desktop](/docs/images/macos/step-03-image-12.png)
+![Authorize GitHub Desktop](/docs/images/macos/step-03-image-13.png)
 
-아래와 같이 "Open GitHub Desktop?"이라는 창이 보이면, 사진처럼 체크박스를 선택한 후에 `Open GitHub Desktop` 버튼을 클릭합니다.
+만약 아래 사진과 같이 "Open GitHub Desktop?"이라는 창이 보이면, 사진처럼 체크박스를 선택한 후에 `Open GitHub Desktop` 버튼을 클릭합니다.
 
-![Open GitHub Desktop](/docs/images/macos/step-03-image-13.png)
-
-깃허브 데스크탑으로 돌아가면 "Clone a Repository"라는 글씨가 보입니다. 아무것도 건드리지 않고 오른쪽 위에 위치한 X 버튼을 클릭해 창을 닫습니다.
-
-![Clone a Repository 화면](/docs/images/macos/step-03-image-14.png)
+![Open GitHub Desktop](/docs/images/macos/step-03-image-14.png)
 
 ## ✅ 완료!
-아래와 같은 화면이 보이면 성공적으로 깃허브 데스크탑에 로그인한 것입니다! 🎉
+아래와 같거나 유사한 화면으로 다시 돌아오면 성공적으로 깃허브 데스크탑에 로그인한 것입니다! 🎉
 
-![깃허브 데스크탑 로그인 성공 후 화면](/docs/images/macos/step-03-image-15.png)
+![깃허브 데스크탑 로그인 성공 후 화면](/docs/images/macos/step-03-image-07.png)
 
 ---
 
