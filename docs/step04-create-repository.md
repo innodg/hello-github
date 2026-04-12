@@ -1,4 +1,4 @@
-# STEP 04: 깃허브 저장소 생성
+# STEP 04: GitHub 저장소 생성
 
 ## 🎯 이 단계에서...
 깃허브 데스크탑(GitHub Desktop)을 사용하여 로컬에서 저장소(Repository)를 만들고, 이를 깃허브(GitHub)에 업로드합니다.
@@ -146,6 +146,6 @@
 
 ---
 
-👈 이전: [STEP 03: 깃허브 데스크탑 설치 안내](/docs/step03-github-desktop-installation.md)
+👈 이전: [STEP 03: GitHub Desktop 설치 안내](/docs/step03-github-desktop-installation.md)
 
-👉 다음: [STEP 05: 깃허브 데스크탑으로 저장소 클론](/docs/step05-clone-repository.md)
+👉 다음: [STEP 05: GitHub Desktop으로 저장소 클론](/docs/step05-clone-repository.md)

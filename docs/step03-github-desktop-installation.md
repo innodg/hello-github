@@ -1,4 +1,4 @@
-# STEP 03: 깃허브 데스크탑 설치 안내
+# STEP 03: GitHub Desktop 설치 안내
 
 ## 🎯 이 단계에서 배우는 것
 깃허브 데스크탑(GitHub Desktop)이라는 프로그램을 설치합니다. 이 프로그램은 깃(Git)을 쉽게 사용할 수 있도록 만든 도구입니다.
@@ -71,6 +71,6 @@
 
 ---
 
-👈 이전: [STEP 02: 깃허브 가입](/docs/step02-github-signup.md)
+👈 이전: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
 
-👉 다음: [STEP 04: 깃허브 저장소 생성](/docs/step04-create-repository.md)
+👉 다음: [STEP 04: GitHub 저장소 생성](/docs/step04-create-repository.md)

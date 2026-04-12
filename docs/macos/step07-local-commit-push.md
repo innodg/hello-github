@@ -1,4 +1,4 @@
-# STEP 07: 깃허브 데스크탑에서 커밋 후 푸시하기 (macOS)
+# STEP 07: GitHub Desktop에서 커밋 후 푸시하기 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
 커밋(Commit)은 수정한 파일을 그냥 저장하는 것을 넘어, 어떤 내용을 바꿨는지 기록으로 남기는 방법입니다. 커밋(Commit)을 통해 작업 내용을 차곡차곡 정리하고 관리하는 흐름을 익힙니다.
@@ -114,4 +114,4 @@
 
 👈 이전: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](/docs/macos/step06-modify-files-locally.md)
 
-👉 다음: [STEP 08: 풀해서 깃허브 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)
+👉 다음: [STEP 08: 원격 저장소에서 깃허브 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)

@@ -1,11 +1,11 @@
-# STEP 08: 풀해서 깃허브 변경 내용 가져오기 (macOS)
+# STEP 08: 원격 저장소에서 깃허브 변경 내용 가져오기 (macOS)
 
 ## 🎯 이 단계에서 배우는 것
 깃허브(GitHub)에서 수정한 내용을 내 컴퓨터로 가져오는 방법입니다. 풀(Pull)을 하면 원격 저장소(Repository)에서 바뀐 내용을 내 컴퓨터에도 반영할 수 있습니다.
 
 ## 📚 풀(Pull)이 뭔가요?
 
-풀(Pull)은 깃허브(GitHub)의 원격 저장소(Repository)에 있는 최신 변경 내용을 내 컴퓨터로 가져오는 작업입니다.
+풀(Pull)은 앞서 이야기했던 깃허브(GitHub)의 원격 저장소(Repository)에 있는 최신 변경 내용을 내 컴퓨터로 가져오는 작업입니다.
 
 ## 🔽 깃허브에서 수정하고 풀하기
 
@@ -73,6 +73,6 @@
 
 ---
 
-👈 이전: [STEP 07: 깃허브 데스크탑에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
+👈 이전: [STEP 07: GitHub Desktop에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
 
 👉 다음: [STEP 09: 이슈 생성하기](/docs/step09-create-issue.md)

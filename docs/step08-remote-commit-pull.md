@@ -1,10 +1,10 @@
-# STEP 08: Pull해서 GitHub 변경 내용 가져오기
+# STEP 08: 원격저장소에서 GitHub 변경 내용 가져오기
 
 ## 🎯 이 단계에서 배우는 것
 GitHub 웹사이트에서 수정한 내용을 내 컴퓨터의 GitHub Desktop으로 가져오는 방법입니다. 풀(Pull)을 하면 온라인 저장소에서 바뀐 내용이 내 컴퓨터에도 반영됩니다.
 
 ## 📚 풀(Pull)이 뭔가요?
-풀(Pull)은 GitHub의 원격 저장소에 있는 최신 변경 내용을 내 컴퓨터로 가져오는 작업입니다.
+풀(Pull)은 앞서 이야기했던 깃허브(GitHub)의 원격 저장소(Repository)에 있는 최신 변경 내용을 내 컴퓨터로 가져오는 작업입니다.
 
 > [!IMPORTANT]
 > 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 08 문서](/docs/macos/step08-remote-commit-pull.md)를 클릭해 이동합니다.
@@ -12,16 +12,12 @@ GitHub 웹사이트에서 수정한 내용을 내 컴퓨터의 GitHub Desktop으
 ## 🔽 GitHub에서 수정하고 풀하기
 
 ### 1단계: GitHub 웹사이트 접속
-웹 브라우저에서 https://github.com 에 접속합니다.
+이전 [STEP 07: GitHub Desktop에서 커밋 후 푸시하기](./step07-local-commit-push.md)단계 마지막에서 복사해뒀던 주소를 웹브라우저에 입력하여 접속합니다.
 
-### 2단계: 저장소 열기
-본인의 저장소로 들어갑니다.  
-예) `my-first-project`
-
-### 3단계: 수정할 파일 선택
+### 2단계: 수정할 파일 선택
 수정하고 싶은 파일을 클릭합니다.
 
-### 4단계: 파일 수정하기
+### 3단계: 파일 수정하기
 
 ![pull 이미지](images/step-08-image-001.png)
 
@@ -29,7 +25,7 @@ GitHub 웹사이트에서 수정한 내용을 내 컴퓨터의 GitHub Desktop으
 
 파일 내용을 원하는 대로 수정합니다.
 
-### 5단계: 웹에서 커밋하기
+### 4단계: 웹 브라우저에서 커밋하기
 
 ![pull 이미지](images/step-08-image-002.png)
 
@@ -39,10 +35,10 @@ GitHub 웹사이트에서 수정한 내용을 내 컴퓨터의 GitHub Desktop으
 
 커밋 메세지를 작성한 후, 다시 `Commit changes` 버튼을 클릭하여 커밋합니다.
 
-### 6단계: GitHub Desktop으로 돌아오기
+### 5단계: GitHub Desktop으로 돌아오기
 GitHub Desktop을 엽니다.
 
-### 7단계: Pull 버튼 클릭
+### 6단계: Pull 버튼 클릭
 
 ![pull 이미지](images/step-08-image-004.png)
 

@@ -73,6 +73,6 @@
 
 ---
 
-👈 이전: [STEP 05: 깃허브 데스크탑으로 저장소 클론하기](/docs/macos/step05-clone-repository.md)
+👈 이전: [STEP 05: GitHub Desktop으로 저장소 클론하기](/docs/macos/step05-clone-repository.md)
 
-👉 다음: [STEP 07: 깃허브 데스크탑에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
+👉 다음: [STEP 07: GitHub Desktop에서 커밋 후 푸시하기](/docs/macos/step07-local-commit-push.md)
