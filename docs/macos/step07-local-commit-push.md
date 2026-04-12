@@ -103,6 +103,12 @@
 
 ![깃허브 웹사이트 커밋 메시지 제목과 본문 확인](/docs/images/macos/step-07-image-13.png)
 
+> [!IMPORTANT]
+> 그리고 주소창의 주소를 메모장 등에 복사해둡니다.
+>
+> 주소 예시) ```
+https://github.com/{{본인 GitHub 아이디}}/my-first-project```
+
 ## ✅ 완료!
 축하합니다! 🎉 수정한 파일을 커밋하고 깃허브까지 성공적으로 업로드했습니다!
 

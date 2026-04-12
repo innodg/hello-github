@@ -80,7 +80,9 @@ GitHub Desktop의 우측 상단에 있는 `Push origin` 버튼을 클릭합니�
 
 > [!IMPORTANT]
 > 그리고 주소창의 주소를 메모장 등에 복사해둡니다.
-> 주소 예시) https://github.com/<<본인 GitHub 아이디>>/my-first-project
+>
+> 주소 예시) ```
+https://github.com/{{본인 GitHub 아이디}}/my-first-project```
 
 ## ✅ 완료!
 축하합니다! 🎉 수정한 파일을 커밋하고 GitHub까지 성공적으로 업로드했습니다!
@@ -92,4 +94,5 @@ GitHub Desktop의 우측 상단에 있는 `Push origin` 버튼을 클릭합니�
 ---
 
 👈 이전: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](./step06-modify-files-locally.md)
+
 👉 다음: [STEP 08: 원격 저장소에서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
