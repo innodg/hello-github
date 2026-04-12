@@ -9,6 +9,9 @@
 > [!TIP]
 > 저장소(Repository) = 우리 파일들을 저장하는 폴더 + 내용 변화 기록 📁
 
+> [!IMPORTANT]
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 [macOS용 STEP 04 문서](/docs/macos/step04-create-repository.md)를 클릭해 이동합니다.
+
 ## 🔨 내 컴퓨터(노트북)에서 저장소 만들고 깃허브에 업로드하기
 
 ### 1단계: 깃허브 데스크탑 실행
