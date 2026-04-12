@@ -24,3 +24,4 @@ $RECYCLE.BIN/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+docs/macos/step01-git-installation.md
