@@ -11,7 +11,7 @@
 
 ### 1단계: 깃허브 웹사이트 접속
 
-[깃허브](https://github.com) 링크를 클릭해 깃허브 웹사이트(Microsoft Edge, Chrome 등)로 이동합니다.
+웹 브라우저(Microsoft Edge, Chrome 등)에서 새로운 탭(창)을 열고 [깃허브](https://github.com) 링크를 클릭해 깃허브 웹사이트(Microsoft Edge, Chrome 등)로 이동합니다.
 
 ### 2단계: 저장소 열기
 
