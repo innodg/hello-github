@@ -6,7 +6,7 @@
 푸시(Push)는 내 컴퓨터(노트북)에서 작업한 내용을 깃허브(GitHub) 사이트에 올리는 방법입니다. 푸시(Push)를 하면 내 컴퓨터에서 만든 변경 사항을 깃허브(GitHub)에도 반영할 수 있습니다.
 
 ## 📚 커밋(Commit)이 뭔가요?
-커밋(Commit)은 변경된 파일을 저장소(Repository)의 히스토리에 기록하는 작업입니다.
+커밋(Commit)은 변경한 파일을 저장소(Repository)의 히스토리에 기록하는 작업입니다.
 
 > [!TIP]
 > **히스토리**란 파일을 언제 어떻게 수정했는지 남겨두는 기록을 말합니다. 히스토리 덕분에 나중에 변경 내용을 다시 확인할 수 있습니다.
@@ -71,25 +71,20 @@
 ![푸시 성공 후 버튼](/docs/images/macos/step-07-image-07.png)
 
 ### 2단계: 깃허브 웹사이트에서 확인
-[깃허브](https://github.com) 링크를 클릭해 깃허브 웹사이트(Microsoft Edge, Chrome 등)로 이동합니다.
+
+아래 사진 속 빨간 네모 부분에 마우스 우클릭(또는 트랙패드로 두 손가락 클릭)을 수행합니다.
+
+![깃허브 웹사이트 저장소 이동](/docs/images/macos/step-07-image-08.png)
+
+`View on GitHub` 버튼을 클릭합니다.
+
+![깃허브 웹사이트 저장소 이동](/docs/images/macos/step-07-image-09.png)
 
 ### 3단계: 저장소 확인
 
-로그인한 상태라면, 다음과 같은 화면이 보입니다.
+아래 사진과 같은 화면이 보인다면, 빈 공간 아무 곳이나 한 번 클릭한 후, `command + R` 키를 눌러 새로고침을 합니다.
 
-![깃허브 웹사이트 로그인 후 화면](/docs/images/macos/step-07-image-08.png)
-
-> [!NOTE]
-> 만약 로그인하지 않았다면, [깃허브 로그인하기](/docs/step02-github-signup.md#github-로그인하기)를 참고해 로그인을 먼저 수행합니다.
-
-로그인을 했다면, 아래 사진과 같이 `my-first-project` 저장소를 클릭하여 이동합니다.
-
-![깃허브 웹사이트 저장소(my-first-project)](/docs/images/macos/step-07-image-09.png)
-
-> [!TIP]
-> 만약 기존에 저장소들을 여러 개 만들어 둔 상황이라면, `my-first-project` 저장소를 찾기 어려울 수 있습니다. 이럴 경우에는 아래 사진과 같이 검색창에 "my-first-project"를 입력하면 쉽게 찾을 수 있습니다.
->
-> ![깃허브 웹사이트 저장소 검색](/docs/images/macos/step-07-image-10.png)
+![깃허브 웹사이트 저장소 새로고침](/docs/images/macos/step-07-image-10.png)
 
 자신이 작성한 리드미 파일 내용이 맞는지 확인합니다.
 
@@ -104,10 +99,9 @@
 ![깃허브 웹사이트 커밋 메시지 제목과 본문 확인](/docs/images/macos/step-07-image-13.png)
 
 > [!IMPORTANT]
-> 그리고 주소창의 주소를 메모장 등에 복사해둡니다.
+> 그리고 주소창의 주소를 메모장 등에 복사해둡니다. 다음 단계에서 이 주소가 필요합니다. 복사할 주소는 다음과 같은 형태 입니다 : `https://github.com/{{본인 GitHub 아이디}}/my-first-project`
 >
-> 주소 예시) ```
-https://github.com/{{본인 GitHub 아이디}}/my-first-project```
+> ![깃허브 웹사이트 주소 복사](/docs/images/macos/step-07-image-14.png)
 
 ## ✅ 완료!
 축하합니다! 🎉 수정한 파일을 커밋하고 깃허브까지 성공적으로 업로드했습니다!
