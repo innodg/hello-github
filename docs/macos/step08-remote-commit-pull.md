@@ -11,7 +11,7 @@
 
 ### 1단계: 깃허브 웹사이트 접속
 
-아래 사진처럼 웹 브라우저(Microsoft Edge, Chrome 등) 주소창에 [STEP 07의 `3단계: 저장소 확인`](/docs/macos/step07-local-commit-push.md#3단계-저장소-확인) 부분 마지막에 복사해둔 주소를 주소창에 입력한 뒤 접속합니다.
+아래 사진처럼 웹 브라우저(Microsoft Edge, Chrome 등) 주소창에 [STEP 07의 3단계: 저장소 확인](/docs/macos/step07-local-commit-push.md#3단계-저장소-확인) 부분 마지막에 복사해둔 주소를 주소창에 입력한 뒤 접속합니다.
 
 ![웹 브라우저 주소창에 저장소 주소 입력](/docs/images/macos/step-07-image-14.png)
 
@@ -47,6 +47,11 @@
 
 > [!TIP]
 > 만약 깃허브 데스크탑을 실행 중이지 않다면, `command + 스페이스 바`를 눌러 검색창을 열고 "GitHub Desktop"을 검색한 후 Enter 키를 눌러 실행합니다.
+
+> [!NOTE]
+> 깃허브 데스크탑 화면에서 현재 선택한 저장소가 "my-first-project"인지 확인합니다.
+>
+> ![저장소명 체크](/docs/images/macos/step-05-image-04.png)
 
 ### 6단계: 풀 버튼 클릭
 
