@@ -11,7 +11,7 @@
 
 ### 1단계: 깃허브 웹사이트 접속
 
-아래 사진처럼 웹 브라우저(Microsoft Edge, Chrome 등) 주소창에 [STEP 07의 3단계: 저장소 확인](/docs/macos/step07-local-commit-push.md#3단계-저장소-확인) 부분 마지막에 복사해둔 주소를 주소창에 입력한 뒤 접속합니다.
+아래 사진처럼 웹 브라우저(Microsoft Edge, Chrome 등) 주소창에 [STEP 07의 3단계: 저장소 확인](/docs/macos/step07-local-commit-push.md#3단계-저장소-확인) 마지막 부분에서 복사해둔 주소를 입력한 뒤 Enter 키를 눌러 깃허브로 이동합니다.
 
 ![웹 브라우저 주소창에 저장소 주소 입력](/docs/images/macos/step-07-image-14.png)
 
