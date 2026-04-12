@@ -19,7 +19,7 @@
 
 ![폴더 이미지](/docs/images/macos/step-06-image-03.png)
 
-폴더 안에 있는 README.md 파일을 우클릭(또는 트랙패드 두 손가락 클릭) 후, `다음으로 열기`에 마우스를 올린 후 `텍스트 편집기`를 클릭합니다.
+폴더 안에 있는 README.md 파일을 우클릭(또는 트랙패드 두 손가락 클릭) 후, `다음으로 열기`에 마우스를 올린 다음 `텍스트 편집기`를 클릭합니다.
 
 ![다음으로 열기 메뉴](/docs/images/macos/step-06-image-04.png)
 
@@ -46,16 +46,18 @@
 
 ## 변경 사항 확인
 
-`command + S`를 눌러 수정한 내용을 저장하면, 깃허브 데스크탑이 변경한 파일을 자동으로 감지해 내가 어떤 파일을 수정했는지 보여줍니다. 아래 내용을 따라 변경 사항을 확인해봅니다 :
+`command + S`를 눌러 수정한 내용을 저장하면, 깃허브 데스크탑이 변경한 파일을 자동으로 감지해 내가 어떤 파일을 수정했는지 보여줍니다.
+
+아래 내용을 따라 변경 사항을 확인해봅니다.
 
 `command + 스페이스 바`를 눌러 검색창을 열고, "GitHub Desktop"을 입력한 후 Enter 키를 눌러 깃허브 데스크탑을 실행합니다.
 
 ![깃허브 데스크탑 검색](/docs/images/macos/step-06-image-07.png)
 
-깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 `my-first-project`로 나타나는 지 확인합니다.
+깃허브 데스크탑을 열면, 왼쪽 위에 내가 선택한 저장소 이름이 "my-first-project"로 나타나는지 확인합니다.
 
 > [!NOTE]
-> 만약 저장소의 이름이 `my-first-project`가 아니라면 `Current Repository`를 클릭한 후 `my-first-project`를 선택합니다.
+> 만약 저장소의 이름이 "my-first-project"가 아니라면 `Current Repository`를 클릭한 후 "my-first-project"를 선택합니다.
 
 ![저장소 선택](/docs/images/macos/step-06-image-08.png)
 
