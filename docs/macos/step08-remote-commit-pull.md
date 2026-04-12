@@ -38,11 +38,11 @@
 
 수정이 끝나면 `Commit changes...` 버튼을 클릭합니다.
 
-![Commit changes 버튼](/docs/images/macos/step-08-image-02.png)
+![Commit changes 버튼](/docs/images/macos/step-08-image-04.png)
 
 커밋 메시지를 수정하고 싶다면 `Commit message(제목)` 입력란과 `Extended description(본문)` 입력란에 내용을 작성합니다. 이번에는 아무것도 건드리지 않고 곧바로 `Commit changes` 버튼을 클릭하겠습니다.
 
-![커밋 메시지 작성](/docs/images/macos/step-08-image-04.png)
+![커밋 메시지 작성](/docs/images/macos/step-08-image-05.png)
 
 ### 6단계: 깃허브 데스크탑으로 돌아오기
 
@@ -58,11 +58,11 @@
 > [!TIP]
 > 만약 글씨가 `Pull origin`이 아니라 `Fetch origin`으로 보인다면, 동일한 위치에 있는 `Fetch origin` 버튼을 클릭한 뒤 다시 `Pull origin` 버튼이 나타나는지 확인해봅니다.
 
-![Pull origin 버튼](/docs/images/macos/step-08-image-05.png)
+![Pull origin 버튼](/docs/images/macos/step-08-image-06.png)
 
 아래 사진처럼 왼쪽에 위치한 `History`을 통해 변경 사항이 내 컴퓨터에 반영된 것을 확인할 수 있습니다.
 
-![History 탭 확인](/docs/images/macos/step-08-image-06.png)
+![History 탭 확인](/docs/images/macos/step-08-image-07.png)
 
 ## ✅ 완료!
 축하합니다! 🎉 깃허브 웹사이트에서 수정한 내용을 커밋하고, 깃허브 데스크탑을 이용해 내 컴퓨터로 성공적으로 가져왔습니다.
