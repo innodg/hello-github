@@ -39,6 +39,6 @@
 
 ---
 
-👈 이전: [STEP 04: 깃허브 저장소 생성](/docs/macos/step04-create-repository.md)
+👈 이전: [STEP 04: GitHub 저장소 생성](/docs/macos/step04-create-repository.md)
 
 👉 다음: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](/docs/macos/step06-modify-files-locally.md)
