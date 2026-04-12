@@ -24,7 +24,7 @@
 
 ### 2단계: 설치 프로그램 실행
 
-다운로드가 완료되면, 다운로드 폴더에서 `GitHubDesktop-arm64.zip` (또는 비슷한 이름의 파일)을 찾아 더블클릭합니다.
+다운로드를 완료하면, 다운로드 폴더에서 `GitHubDesktop-arm64.zip` (또는 비슷한 이름의 파일)을 찾아 더블클릭합니다.
 
 ![ZIP 파일](/docs/images/macos/step-03-image-03.png)
 
