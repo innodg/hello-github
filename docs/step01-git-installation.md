@@ -11,7 +11,7 @@
 > 깃(Git) = 파일의 변화를 자동으로 기록해주는 일기장 📝
 
 > [!IMPORTANT]
-> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 기본적으로 내 컴퓨터(노트북)에 존재하는 깃(Git)을 사용할 예정입니다. 곧바로 [macOS용 STEP 01 문서](/docs/step02-github-signup.md)으로 이동합니다.
+> 🍎 **macOS 사용자**(맥북, 아이맥 등)는 기본적으로 내 컴퓨터(노트북)에 존재하는 깃(Git)을 사용할 예정입니다. 곧바로 [macOS용 STEP 02 문서](/docs/step02-github-signup.md)으로 이동합니다.
 
 ## 💾 깃 설치하기
 
