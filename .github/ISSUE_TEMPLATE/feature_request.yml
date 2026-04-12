@@ -1,0 +1,51 @@
+name: ✨ 기능 요청
+description: 새로운 기능이나 개선 사항을 제안해 주세요
+title: "[기능 요청]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        기능 요청을 제출해 주셔서 감사합니다. 아래 양식을 작성해 주세요.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 기능 설명
+      description: 요청하는 기능에 대한 명확하고 간결한 설명을 해주세요.
+      placeholder: 어떤 기능이 필요한지 설명해 주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 해결하려는 문제
+      description: 이 기능 요청과 관련된 문제를 설명해 주세요.
+      placeholder: "예: ...할 때 항상 불편합니다."
+    validations:
+      required: false
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 원하는 해결 방안
+      description: 원하는 해결 방안에 대한 명확하고 간결한 설명을 해주세요.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 고려한 대안
+      description: 고려한 대체 해결 방안이나 기능에 대한 명확하고 간결한 설명을 해주세요.
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 추가 정보
+      description: 기능 요청에 대한 추가 정보를 입력해 주세요.
+    validations:
+      required: false
