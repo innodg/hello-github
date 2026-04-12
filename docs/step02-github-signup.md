@@ -68,7 +68,7 @@
 
 > [!TIP]
 > 신규 계정 생성 시 AI 봇 방지를 위한 시각 퍼즐 및 오디오 퍼즐 인증 절차가 추가로 있을 수 있습니다.
-> [시각 퍼즐 및 오디오 퍼즐 인증 절차 가이드](https://www.youtube.com/watch?v=DSDz3fEuQRw)를 참고하시면 됩니다.
+> [시각 퍼즐 및 오디오 퍼즐 인증 절차 가이드](https://www.youtube.com/watch?v=DSDz3fEuQRw)를 참고하면 됩니다.
 
 ### 8단계: 이메일 확인
 
