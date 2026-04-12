@@ -10,11 +10,11 @@
 
 ### 1단계: 깃허브 데스크탑 실행
 
-만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + 스페이스 바`를 눌러 검색창에서 `GitHub Desktop`을 검색한 후 Enter 키를 눌러 실행합니다.
+만약 깃허브 데스크탑을 실행하고 있지 않다면, `command + 스페이스 바`를 눌러 검색창에서 "GitHub Desktop"을 검색한 후 Enter 키를 눌러 실행합니다.
 
 ![깃허브 데스크탑 실행 화면](/docs/images/macos/step-05-image-01.png)
 
-만약 깃허브 데스크탑에서 깃허브 계정으로 로그인하지 않았다면, [STEP 03: 로그인 진행하기](/docs/step03-github-desktop-installation.md#로그인-진행하기)를 클릭해 이동합니다.
+만약 깃허브 데스크탑에서 깃허브 계정으로 로그인하지 않았다면, [STEP 03: 로그인 진행하기](/docs/macos/step03-github-desktop-installation.md#로그인-진행하기)를 클릭해 이동합니다.
 
 ### 2단계: 저장소 클론
 
@@ -24,12 +24,12 @@
 
 ### 3단계: 저장소 선택 및 Clone 버튼 클릭
 
-아래 사진과 같은 화면이 나타나면, `my-first-project`라는 이름의 저장소를 찾아 선택한 후, 오른쪽 아래에 있는 `Clone` 버튼을 클릭합니다.
+아래 사진과 같은 화면이 나타나면, "my-first-project"라는 이름의 저장소를 찾아 선택한 후, 오른쪽 아래에 있는 `Clone` 버튼을 클릭합니다.
 
 ![저장소 선택 화면](/docs/images/macos/step-05-image-03.png)
 
 ## ✅ 완료!
-축하합니다! 🎉 아래 사진과 같은 화면에서 화살표 방향에 `my-first-project`라는 저장소 이름이 보인다면, 깃허브로부터 저장소를 성공적으로 복제해온 것입니다!
+축하합니다! 🎉 아래 사진과 같은 화면에서 화살표 방향에 "my-first-project"라는 저장소 이름이 보인다면, 깃허브로부터 저장소를 성공적으로 복제해온 것입니다!
 
 ![클론 완료 화면](/docs/images/macos/step-05-image-04.png)
 
