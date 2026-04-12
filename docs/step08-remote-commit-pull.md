@@ -58,4 +58,5 @@ GitHub Desktop을 엽니다.
 ---
 
 👈 이전: [STEP 07: GitHub Desktop에서 커밋 후 푸시하기](./step07-local-commit-push.md)
+
 👉 다음: [STEP 09: 이슈 생성하기](./step09-create-issue.md)
