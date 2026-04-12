@@ -1,4 +1,4 @@
-# STEP 02: 깃허브 가입
+# STEP 02: GitHub 가입
 
 ## 🎯 이 단계에서 배우는 것
 깃허브(GitHub)에 새로운 계정을 만드는 방법입니다. 깃허브(GitHub)는 우리가 만든 파일들을 인터넷에 저장하고 공유할 수 있는 사이트입니다.
@@ -117,6 +117,6 @@
 
 ---
 
-👈 이전: [STEP 01: 깃 설치 안내](/docs/step01-git-installation.md)
+👈 이전: [STEP 01: Git 설치 안내](/docs/step01-git-installation.md)
 
-👉 다음: [STEP 03: 깃허브 데스크탑 설치 안내](/docs/step03-github-desktop-installation.md)
+👉 다음: [STEP 03: GitHub Desktop 설치 안내](/docs/step03-github-desktop-installation.md)

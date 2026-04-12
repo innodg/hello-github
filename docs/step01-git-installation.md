@@ -1,4 +1,4 @@
-# STEP 01: 깃 설치 안내
+# STEP 01: Git 설치 안내
 
 ## 🎯 이 단계에서 배우는 것
 깃(Git)이 무엇인지 알아보고, 우리 컴퓨터에 설치하는 과정입니다.
@@ -75,4 +75,4 @@
 
 ---
 
-👉 다음: [STEP 02: 깃허브 가입](/docs/step02-github-signup.md)
+👉 다음: [STEP 02: GitHub 가입](/docs/step02-github-signup.md)
