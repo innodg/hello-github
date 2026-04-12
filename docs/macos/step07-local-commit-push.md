@@ -114,4 +114,4 @@
 
 👈 이전: [STEP 06: 내 컴퓨터에서 파일 수정 또는 생성하기](/docs/macos/step06-modify-files-locally.md)
 
-👉 다음: [STEP 08: 풀해서 깃허브 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)
+👉 다음: [STEP 08: 원격 저장소에서 깃허브 변경 내용 가져오기](/docs/macos/step08-remote-commit-pull.md)

@@ -17,9 +17,9 @@ Git 기본 개념부터 GitHub를 통한 협업까지 단계별로 학습할 수
 | STEP 03 | [GitHub Desktop 설치 안내](./docs/step03-github-desktop-installation.md) |
 | STEP 04 | [GitHub 저장소 생성](./docs/step04-create-repository.md) |
 | STEP 05 | [GitHub Desktop으로 저장소 클론하기](./docs/step05-clone-repository.md) |
-| STEP 06 | [로컬에서 파일 수정 또는 생성하기](./docs/step06-modify-files-locally.md) |
+| STEP 06 | [내 컴퓨터에서 파일 수정 또는 생성하기](./docs/step06-modify-files-locally.md) |
 | STEP 07 | [GitHub Desktop에서 커밋 후 푸시하기](./docs/step07-local-commit-push.md) |
-| STEP 08 | [Pull해서 GitHub 변경 내용 가져오기](./docs/step08-remote-commit-pull.md) |
+| STEP 08 | [원격 저장소에서 GitHub 변경 내용 가져오기](./docs/step08-remote-commit-pull.md) |
 | STEP 09 | [이슈 생성하기](./docs/step09-create-issue.md) |
 
 ## 📚 더 공부하고 싶다면?

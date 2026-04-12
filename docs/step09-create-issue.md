@@ -61,7 +61,7 @@ GitHub에서 본인의 저장소에 접속합니다.
 
 ---
 
-👈 이전: [STEP 08: Pull해서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
+👈 이전: [STEP 08: 원격 저장소에서 GitHub 변경 내용 가져오기](./step08-remote-commit-pull.md)
 
 ## 축하합니다! 🎉
 모든 단계를 완료했습니다. 이제 GitHub를 사용할 준비가 되었습니다!
